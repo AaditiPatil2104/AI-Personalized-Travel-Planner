@@ -1,0 +1,528 @@
+{
+ "origins": [
+  {
+   "name": "Kolhapur",
+   "lat": 16.705,
+   "lon": 74.2433,
+   "aliases": [
+    "kolhapur"
+   ]
+  },
+  {
+   "name": "Pune",
+   "lat": 18.5204,
+   "lon": 73.8567,
+   "aliases": [
+    "pune",
+    "poona"
+   ]
+  },
+  {
+   "name": "Mumbai",
+   "lat": 19.076,
+   "lon": 72.8777,
+   "aliases": [
+    "mumbai",
+    "bombay"
+   ]
+  },
+  {
+   "name": "Navi Mumbai",
+   "lat": 19.033,
+   "lon": 73.0297,
+   "aliases": [
+    "navi mumbai"
+   ]
+  },
+  {
+   "name": "Thane",
+   "lat": 19.2183,
+   "lon": 72.9781,
+   "aliases": [
+    "thane"
+   ]
+  },
+  {
+   "name": "Nashik",
+   "lat": 19.9975,
+   "lon": 73.7898,
+   "aliases": [
+    "nashik",
+    "nasik"
+   ]
+  },
+  {
+   "name": "Nagpur",
+   "lat": 21.1458,
+   "lon": 79.0882,
+   "aliases": [
+    "nagpur"
+   ]
+  },
+  {
+   "name": "Aurangabad",
+   "lat": 19.8762,
+   "lon": 75.3433,
+   "aliases": [
+    "aurangabad",
+    "chhatrapati sambhajinagar"
+   ]
+  },
+  {
+   "name": "Solapur",
+   "lat": 17.6599,
+   "lon": 75.9064,
+   "aliases": [
+    "solapur"
+   ]
+  },
+  {
+   "name": "Sangli",
+   "lat": 16.8524,
+   "lon": 74.5815,
+   "aliases": [
+    "sangli"
+   ]
+  },
+  {
+   "name": "Satara",
+   "lat": 17.6805,
+   "lon": 74.0183,
+   "aliases": [
+    "satara"
+   ]
+  },
+  {
+   "name": "Belagavi",
+   "lat": 15.8497,
+   "lon": 74.4977,
+   "aliases": [
+    "belagavi",
+    "belgaum"
+   ]
+  },
+  {
+   "name": "Hubballi",
+   "lat": 15.3647,
+   "lon": 75.124,
+   "aliases": [
+    "hubli",
+    "hubballi",
+    "dharwad"
+   ]
+  },
+  {
+   "name": "Goa",
+   "lat": 15.4909,
+   "lon": 73.8278,
+   "aliases": [
+    "goa",
+    "panaji"
+   ]
+  },
+  {
+   "name": "Bengaluru",
+   "lat": 12.9716,
+   "lon": 77.5946,
+   "aliases": [
+    "bengaluru",
+    "bangalore"
+   ]
+  },
+  {
+   "name": "Mysuru",
+   "lat": 12.2958,
+   "lon": 76.6394,
+   "aliases": [
+    "mysuru",
+    "mysore"
+   ]
+  },
+  {
+   "name": "Mangaluru",
+   "lat": 12.9141,
+   "lon": 74.856,
+   "aliases": [
+    "mangaluru",
+    "mangalore"
+   ]
+  },
+  {
+   "name": "Hyderabad",
+   "lat": 17.385,
+   "lon": 78.4867,
+   "aliases": [
+    "hyderabad",
+    "secunderabad"
+   ]
+  },
+  {
+   "name": "Chennai",
+   "lat": 13.0827,
+   "lon": 80.2707,
+   "aliases": [
+    "chennai",
+    "madras"
+   ]
+  },
+  {
+   "name": "Coimbatore",
+   "lat": 11.0168,
+   "lon": 76.9558,
+   "aliases": [
+    "coimbatore"
+   ]
+  },
+  {
+   "name": "Madurai",
+   "lat": 9.9252,
+   "lon": 78.1198,
+   "aliases": [
+    "madurai"
+   ]
+  },
+  {
+   "name": "Kochi",
+   "lat": 9.9312,
+   "lon": 76.2673,
+   "aliases": [
+    "kochi",
+    "cochin",
+    "ernakulam"
+   ]
+  },
+  {
+   "name": "Thiruvananthapuram",
+   "lat": 8.5241,
+   "lon": 76.9366,
+   "aliases": [
+    "thiruvananthapuram",
+    "trivandrum"
+   ]
+  },
+  {
+   "name": "Visakhapatnam",
+   "lat": 17.6868,
+   "lon": 83.2185,
+   "aliases": [
+    "visakhapatnam",
+    "vizag"
+   ]
+  },
+  {
+   "name": "Vijayawada",
+   "lat": 16.5062,
+   "lon": 80.648,
+   "aliases": [
+    "vijayawada"
+   ]
+  },
+  {
+   "name": "Delhi",
+   "lat": 28.6139,
+   "lon": 77.209,
+   "aliases": [
+    "delhi",
+    "new delhi"
+   ]
+  },
+  {
+   "name": "Gurugram",
+   "lat": 28.4595,
+   "lon": 77.0266,
+   "aliases": [
+    "gurgaon",
+    "gurugram"
+   ]
+  },
+  {
+   "name": "Noida",
+   "lat": 28.5355,
+   "lon": 77.391,
+   "aliases": [
+    "noida"
+   ]
+  },
+  {
+   "name": "Chandigarh",
+   "lat": 30.7333,
+   "lon": 76.7794,
+   "aliases": [
+    "chandigarh"
+   ]
+  },
+  {
+   "name": "Amritsar",
+   "lat": 31.634,
+   "lon": 74.8723,
+   "aliases": [
+    "amritsar"
+   ]
+  },
+  {
+   "name": "Ludhiana",
+   "lat": 30.901,
+   "lon": 75.8573,
+   "aliases": [
+    "ludhiana"
+   ]
+  },
+  {
+   "name": "Jaipur",
+   "lat": 26.9124,
+   "lon": 75.7873,
+   "aliases": [
+    "jaipur"
+   ]
+  },
+  {
+   "name": "Jodhpur",
+   "lat": 26.2389,
+   "lon": 73.0243,
+   "aliases": [
+    "jodhpur"
+   ]
+  },
+  {
+   "name": "Udaipur",
+   "lat": 24.5854,
+   "lon": 73.7125,
+   "aliases": [
+    "udaipur"
+   ]
+  },
+  {
+   "name": "Agra",
+   "lat": 27.1767,
+   "lon": 78.0081,
+   "aliases": [
+    "agra"
+   ]
+  },
+  {
+   "name": "Lucknow",
+   "lat": 26.8467,
+   "lon": 80.9462,
+   "aliases": [
+    "lucknow"
+   ]
+  },
+  {
+   "name": "Kanpur",
+   "lat": 26.4499,
+   "lon": 80.3319,
+   "aliases": [
+    "kanpur"
+   ]
+  },
+  {
+   "name": "Varanasi",
+   "lat": 25.3176,
+   "lon": 82.9739,
+   "aliases": [
+    "varanasi",
+    "banaras",
+    "benares"
+   ]
+  },
+  {
+   "name": "Prayagraj",
+   "lat": 25.4358,
+   "lon": 81.8463,
+   "aliases": [
+    "prayagraj",
+    "allahabad"
+   ]
+  },
+  {
+   "name": "Dehradun",
+   "lat": 30.3165,
+   "lon": 78.0322,
+   "aliases": [
+    "dehradun"
+   ]
+  },
+  {
+   "name": "Patna",
+   "lat": 25.5941,
+   "lon": 85.1376,
+   "aliases": [
+    "patna"
+   ]
+  },
+  {
+   "name": "Ranchi",
+   "lat": 23.3441,
+   "lon": 85.3096,
+   "aliases": [
+    "ranchi"
+   ]
+  },
+  {
+   "name": "Kolkata",
+   "lat": 22.5726,
+   "lon": 88.3639,
+   "aliases": [
+    "kolkata",
+    "calcutta"
+   ]
+  },
+  {
+   "name": "Bhubaneswar",
+   "lat": 20.2961,
+   "lon": 85.8245,
+   "aliases": [
+    "bhubaneswar"
+   ]
+  },
+  {
+   "name": "Guwahati",
+   "lat": 26.1445,
+   "lon": 91.7362,
+   "aliases": [
+    "guwahati"
+   ]
+  },
+  {
+   "name": "Ahmedabad",
+   "lat": 23.0225,
+   "lon": 72.5714,
+   "aliases": [
+    "ahmedabad"
+   ]
+  },
+  {
+   "name": "Surat",
+   "lat": 21.1702,
+   "lon": 72.8311,
+   "aliases": [
+    "surat"
+   ]
+  },
+  {
+   "name": "Vadodara",
+   "lat": 22.3072,
+   "lon": 73.1812,
+   "aliases": [
+    "vadodara",
+    "baroda"
+   ]
+  },
+  {
+   "name": "Rajkot",
+   "lat": 22.3039,
+   "lon": 70.8022,
+   "aliases": [
+    "rajkot"
+   ]
+  },
+  {
+   "name": "Indore",
+   "lat": 22.7196,
+   "lon": 75.8577,
+   "aliases": [
+    "indore"
+   ]
+  },
+  {
+   "name": "Bhopal",
+   "lat": 23.2599,
+   "lon": 77.4126,
+   "aliases": [
+    "bhopal"
+   ]
+  },
+  {
+   "name": "Raipur",
+   "lat": 21.2514,
+   "lon": 81.6296,
+   "aliases": [
+    "raipur"
+   ]
+  },
+  {
+   "name": "Srinagar",
+   "lat": 34.0837,
+   "lon": 74.7973,
+   "aliases": [
+    "srinagar"
+   ]
+  },
+  {
+   "name": "Jammu",
+   "lat": 32.7266,
+   "lon": 74.857,
+   "aliases": [
+    "jammu"
+   ]
+  },
+  {
+   "name": "Shimla",
+   "lat": 31.1048,
+   "lon": 77.1734,
+   "aliases": [
+    "shimla"
+   ]
+  },
+  {
+   "name": "Puducherry",
+   "lat": 11.9416,
+   "lon": 79.8083,
+   "aliases": [
+    "puducherry",
+    "pondicherry"
+   ]
+  },
+  {
+   "name": "Panaji",
+   "lat": 15.4989,
+   "lon": 73.8278,
+   "aliases": [
+    "panaji"
+   ]
+  },
+  {
+   "name": "Dubai",
+   "lat": 25.2048,
+   "lon": 55.2708,
+   "aliases": [
+    "dubai"
+   ]
+  }
+ ],
+ "descriptions": {
+  "Taj Mahal": "The iconic white-marble mausoleum is best experienced early for softer light and fewer crowds. The surrounding Tajganj area also has cafés and handicraft shops.",
+  "Mehtab Bagh": "This riverside Mughal garden offers a classic view back toward the Taj Mahal, especially around sunset. It is a calmer stop than the main monument complex.",
+  "Taj Nature Walk": "A landscaped green trail near the Taj Mahal with viewpoints, birds and quieter walking paths. It works well as a short nature break.",
+  "Agra Fort": "A massive red-sandstone fort with palace courtyards, halls and viewpoints toward the Taj Mahal. It combines Mughal history with impressive architecture.",
+  "Itmad-ud-Daulah": "A finely detailed marble-and-sandstone tomb often called the Baby Taj. Its gardens and inlay work make it a good photography stop.",
+  "Fatehpur Sikri": "The former Mughal capital has grand gateways, courtyards and palace buildings spread across a historic complex. Allow extra time because it is outside central Agra.",
+  "Red Fort": "A vast Mughal fort with monumental gates, palaces and museums inside its sandstone walls. It is one of Old Delhi's essential heritage stops.",
+  "Jama Masjid": "One of India's best-known historic mosques, with a huge courtyard and red-sandstone architecture. Its Old Delhi setting makes it easy to combine with Chandni Chowk.",
+  "Chandni Chowk": "A lively historic market area packed with food lanes, shops and old-city streets. It is ideal for a short walking-and-food experience.",
+  "Qutub Minar": "The famous 12th-century minaret rises above an archaeological complex of tombs, gateways and carved stonework. It is especially rewarding for architecture and history lovers.",
+  "Humayun's Tomb": "A grand Mughal garden tomb surrounded by formal paths and lawns. Its design is an important link in the evolution of Mughal architecture.",
+  "Lodhi Garden": "A spacious city park dotted with Lodi-era tombs and landscaped paths. It is a relaxed morning option for walking and photography.",
+  "India Gate": "A major war memorial set beside Kartavya Path and broad lawns. The area is popular for an evening walk and city views.",
+  "Lotus Temple": "The Baháʼí House of Worship is famous for its flower-like white structure and peaceful interior. Visitors usually combine it with other South Delhi sights.",
+  "Baga Beach": "A lively North Goa beach with a broad shoreline, water activities, cafés and evening entertainment. It suits travellers looking for energy rather than solitude.",
+  "Calangute Beach": "One of Goa's most popular beaches, with a long sandy shore and plenty of food and activity options. It is convenient for a first beach day.",
+  "Anjuna Beach": "A rocky-and-sandy coastal stretch known for sea views, cafés and the area's bohemian atmosphere. Nearby markets make it easy to extend the visit.",
+  "Vagator Beach": "Vagator combines dramatic laterite cliffs with Arabian Sea views and a relaxed café scene. Sunset is a popular time to visit.",
+  "Fort Aguada": "A Portuguese-era fort overlooking the Arabian Sea with old defensive walls and lighthouse views. It pairs naturally with Candolim and Sinquerim.",
+  "Basilica of Bom Jesus": "A landmark church in Old Goa with important Baroque architecture and a long history. The surrounding heritage district has several other historic churches.",
+  "Fontainhas": "Panaji's colourful Latin Quarter is filled with heritage houses, balconies and narrow lanes. It is best explored slowly on foot with a camera.",
+  "Palolem Beach": "A scenic crescent-shaped beach in South Goa with calm-looking bay views and a laid-back atmosphere. It works well for a slower beach day.",
+  "Dudhsagar Falls": "A spectacular waterfall in the Western Ghats surrounded by forested scenery. Reaching it is an excursion, so keep enough travel time in the day.",
+  "Gateway of India": "Mumbai's landmark waterfront arch stands beside the harbour and historic hotel district. It is a natural starting point for a South Mumbai walk.",
+  "Marine Drive": "Mumbai's sweeping seaside boulevard is famous for its bay views and evening skyline. It is particularly pleasant around sunset.",
+  "Hawa Mahal": "Jaipur's pink façade is famous for its many small windows designed for royal-era observation. The surrounding Pink City lanes are full of shops and street life.",
+  "City Palace": "A royal complex of courtyards, gateways and museum spaces in Jaipur's old city. It offers a compact introduction to the city's royal history.",
+  "Amber Fort": "A hilltop fort with grand courtyards, gateways and palace interiors overlooking the Aravallis. Start early to avoid the strongest daytime heat.",
+  "Shaniwar Wada": "A historic Peshwa-era fortification in the heart of Pune with imposing gateways and a strong connection to Maratha history. It is easy to combine with Old Pune markets.",
+  "Bangalore Palace": "A Tudor-inspired palace with ornate interiors and landscaped grounds. It provides a very different architectural experience from Bengaluru's modern business districts.",
+  "Lalbagh Botanical Garden": "A large historic botanical garden with mature trees, lawns and its famous glasshouse. It is a good choice for a relaxed morning outdoors.",
+  "Fort Kochi Beach": "A waterfront area known for sea views and the iconic Chinese fishing nets nearby. The historic neighbourhood is especially enjoyable on foot.",
+  "Mattancherry Palace": "A historic palace museum associated with Kerala's royal heritage and traditional murals. Nearby Jew Town adds antique shops and old trading streets."
+ }
+}

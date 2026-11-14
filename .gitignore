@@ -1,0 +1,42 @@
+
+# Maven build output
+target/
+build/
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Logs and temporary files
+*.log
+*.tmp
+logs/
+temp/
+
+# Database files (local H2 database)
+*.mv.db
+*.lock.db
+*.trace.db
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Java tooling
+.mvn/wrapper/maven-wrapper.jar

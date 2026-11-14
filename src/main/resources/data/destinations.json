@@ -1,0 +1,5304 @@
+[
+ {
+  "name": "Agra",
+  "aliases": [
+   "agra",
+   "taj mahal"
+  ],
+  "country": "India",
+  "intl": false,
+  "lat": 27.1767,
+  "lon": 78.0081,
+  "costIndex": 0.95,
+  "activityIndex": 1.0,
+  "flightReturn": 0,
+  "visaInsurance": 0,
+  "zones": [
+   {
+    "id": "TAJ",
+    "name": "Taj Ganj & Fatehabad Road",
+    "lat": 27.17,
+    "lon": 78.042
+   },
+   {
+    "id": "FORT",
+    "name": "Agra Fort & Old Agra",
+    "lat": 27.1795,
+    "lon": 78.0211
+   },
+   {
+    "id": "SIKANDRA",
+    "name": "Sikandra",
+    "lat": 27.2203,
+    "lon": 77.9511
+   },
+   {
+    "id": "CANTT",
+    "name": "Agra Cantt & Sadar",
+    "lat": 27.165,
+    "lon": 77.99
+   }
+  ],
+  "areas": [
+   {
+    "name": "Taj East Gate",
+    "zone": "TAJ",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Taj Mahal",
+     "Mehtab Bagh",
+     "Taj Nature Walk",
+     "Taj Museum"
+    ]
+   },
+   {
+    "name": "Agra Fort",
+    "zone": "FORT",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Agra Fort",
+     "Anguri Bagh",
+     "Moti Masjid",
+     "Musamman Burj"
+    ]
+   },
+   {
+    "name": "Old Agra",
+    "zone": "FORT",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Itmad-ud-Daulah",
+     "Kinari Bazaar",
+     "Jama Masjid Agra",
+     "Mankameshwar Temple"
+    ]
+   },
+   {
+    "name": "Sikandra",
+    "zone": "SIKANDRA",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Akbar's Tomb",
+     "Mariyam's Tomb",
+     "Gurudwara Guru Ka Taal",
+     "Kanch Mahal"
+    ]
+   },
+   {
+    "name": "Yamuna",
+    "zone": "FORT",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Ram Bagh",
+     "Swami Bagh Samadhi",
+     "Chini ka Rauza",
+     "Akbar's Church Agra"
+    ]
+   },
+   {
+    "name": "Fatehpur Sikri",
+    "zone": "TAJ",
+    "category": "History",
+    "exc": 40,
+    "places": [
+     "Fatehpur Sikri",
+     "Buland Darwaza",
+     "Panch Mahal",
+     "Jama Masjid Fatehpur Sikri"
+    ]
+   },
+   {
+    "name": "Tajganj",
+    "zone": "TAJ",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Tajganj Heritage Walk",
+     "Kalakriti Cultural Convention Centre",
+     "Mohabbat The Taj Show",
+     "Shilpgram Craft Village"
+    ]
+   },
+   {
+    "name": "Gardens & Wildlife",
+    "zone": "TAJ",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Keoladeo National Park",
+     "Kailash Temple Agra",
+     "Soami Bagh",
+     "Agra Bear Rescue Facility"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "FORT",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Agra Petha Market",
+     "Mughlai Food Trail",
+     "Sadar Bazaar Food Walk",
+     "Bedai-Jalebi Breakfast"
+    ]
+   },
+   {
+    "name": "Crafts",
+    "zone": "TAJ",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Marble Inlay Workshop",
+     "Leather Market",
+     "Carpet Weaving Centre",
+     "Zardozi Craft Studio"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "The Oberoi Amarvilas",
+    "zone": "TAJ",
+    "tier": 3,
+    "rate": 52000,
+    "address": "Taj East Gate Road, Taj Nagri Phase 2, Agra 282001",
+    "site": "https://www.oberoihotels.com"
+   },
+   {
+    "name": "ITC Mughal, a Luxury Collection Resort & Spa",
+    "zone": "TAJ",
+    "tier": 3,
+    "rate": 17000,
+    "address": "Taj Ganj, Fatehabad Road, Agra 282001",
+    "site": "https://www.itchotels.com"
+   },
+   {
+    "name": "Taj Hotel & Convention Centre, Agra",
+    "zone": "TAJ",
+    "tier": 3,
+    "rate": 9500,
+    "address": "Fatehabad Road, Agra 282001",
+    "site": "https://www.tajhotels.com"
+   },
+   {
+    "name": "Trident Agra",
+    "zone": "TAJ",
+    "tier": 2,
+    "rate": 6800,
+    "address": "Taj Nagri Phase 2, Fatehabad Road, Agra 282001",
+    "site": "https://www.tridenthotels.com"
+   },
+   {
+    "name": "Radisson Hotel Agra",
+    "zone": "TAJ",
+    "tier": 2,
+    "rate": 6500,
+    "address": "Taj East Gate Road, Agra 282001",
+    "site": "https://www.radissonhotels.com"
+   },
+   {
+    "name": "DoubleTree by Hilton Agra",
+    "zone": "TAJ",
+    "tier": 2,
+    "rate": 7200,
+    "address": "Fatehabad Road, Agra 282001",
+    "site": "https://www.hilton.com"
+   },
+   {
+    "name": "Courtyard by Marriott Agra",
+    "zone": "TAJ",
+    "tier": 2,
+    "rate": 7000,
+    "address": "Fatehabad Road, Agra 282001",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "Crystal Sarovar Premiere",
+    "zone": "TAJ",
+    "tier": 2,
+    "rate": 6200,
+    "address": "Fatehabad Road, Agra 282001",
+    "site": ""
+   },
+   {
+    "name": "Hotel Clarks Shiraz",
+    "zone": "CANTT",
+    "tier": 2,
+    "rate": 5600,
+    "address": "54 Taj Road, Agra 282001",
+    "site": ""
+   },
+   {
+    "name": "Howard Plaza The Fern",
+    "zone": "TAJ",
+    "tier": 2,
+    "rate": 5200,
+    "address": "Fatehabad Road, Agra 282001",
+    "site": ""
+   },
+   {
+    "name": "Hotel Atulyaa Taj",
+    "zone": "TAJ",
+    "tier": 1,
+    "rate": 2800,
+    "address": "Taj East Gate Road, Agra 282001",
+    "site": ""
+   },
+   {
+    "name": "Hotel Taj Resorts",
+    "zone": "TAJ",
+    "tier": 1,
+    "rate": 2600,
+    "address": "Eastern Gate Road, Taj Ganj, Agra 282001",
+    "site": ""
+   },
+   {
+    "name": "Zostel Agra",
+    "zone": "TAJ",
+    "tier": 1,
+    "rate": 1800,
+    "address": "Taj Ganj, near Taj Mahal East Gate, Agra 282001",
+    "site": "https://www.zostel.com"
+   },
+   {
+    "name": "Hotel Kamal",
+    "zone": "TAJ",
+    "tier": 1,
+    "rate": 1700,
+    "address": "Chowk Kagzi, Taj Ganj, Agra 282001",
+    "site": ""
+   }
+  ]
+ },
+ {
+  "name": "Goa",
+  "aliases": [
+   "goa",
+   "panaji",
+   "panjim",
+   "calangute",
+   "baga",
+   "palolem"
+  ],
+  "country": "India",
+  "intl": false,
+  "lat": 15.4909,
+  "lon": 73.8278,
+  "costIndex": 1.2,
+  "activityIndex": 1.0,
+  "flightReturn": 0,
+  "visaInsurance": 0,
+  "zones": [
+   {
+    "id": "CANDOLIM",
+    "name": "Candolim & Sinquerim",
+    "lat": 15.5183,
+    "lon": 73.7625
+   },
+   {
+    "id": "BAGA",
+    "name": "Baga, Calangute & Anjuna",
+    "lat": 15.5553,
+    "lon": 73.7517
+   },
+   {
+    "id": "PANAJI",
+    "name": "Panaji (Panjim)",
+    "lat": 15.4989,
+    "lon": 73.8278
+   },
+   {
+    "id": "OLDGOA",
+    "name": "Old Goa",
+    "lat": 15.5009,
+    "lon": 73.9116
+   },
+   {
+    "id": "SOUTH",
+    "name": "Colva, Benaulim & Varca",
+    "lat": 15.28,
+    "lon": 73.912
+   },
+   {
+    "id": "PALOLEM",
+    "name": "Palolem & Canacona",
+    "lat": 15.01,
+    "lon": 74.023
+   },
+   {
+    "id": "NORTHFAR",
+    "name": "Morjim, Mandrem & Arambol",
+    "lat": 15.633,
+    "lon": 73.736
+   }
+  ],
+  "areas": [
+   {
+    "name": "North Goa",
+    "zone": "BAGA",
+    "category": "Beach",
+    "exc": 0,
+    "places": [
+     "Baga Beach",
+     "Calangute Beach",
+     "Anjuna Beach",
+     "Vagator Beach"
+    ]
+   },
+   {
+    "name": "Candolim",
+    "zone": "CANDOLIM",
+    "category": "Beach",
+    "exc": 0,
+    "places": [
+     "Candolim Beach",
+     "Fort Aguada",
+     "Sinquerim Beach",
+     "Reis Magos Fort"
+    ]
+   },
+   {
+    "name": "Old Goa",
+    "zone": "OLDGOA",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Basilica of Bom Jesus",
+     "Se Cathedral",
+     "Church of St. Francis of Assisi",
+     "Archaeological Museum of Goa"
+    ]
+   },
+   {
+    "name": "Panaji",
+    "zone": "PANAJI",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Fontainhas",
+     "Immaculate Conception Church",
+     "Dona Paula View Point",
+     "Mandovi Promenade"
+    ]
+   },
+   {
+    "name": "Mapusa",
+    "zone": "BAGA",
+    "category": "Food",
+    "exc": 8,
+    "places": [
+     "Mapusa Municipal Market",
+     "Anjuna Flea Market",
+     "Chapora Fort",
+     "Saturday Night Market Goa"
+    ]
+   },
+   {
+    "name": "South Goa",
+    "zone": "SOUTH",
+    "category": "Beach",
+    "exc": 0,
+    "places": [
+     "Colva Beach",
+     "Benaulim Beach",
+     "Palolem Beach",
+     "Patnem Beach"
+    ]
+   },
+   {
+    "name": "Canacona",
+    "zone": "PALOLEM",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Butterfly Beach",
+     "Cabo de Rama Fort",
+     "Agonda Beach",
+     "Galgibaga Beach"
+    ]
+   },
+   {
+    "name": "Morjim",
+    "zone": "NORTHFAR",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Morjim Beach",
+     "Ashwem Beach",
+     "Mandrem Beach",
+     "Arambol Beach"
+    ]
+   },
+   {
+    "name": "Adventure",
+    "zone": "PANAJI",
+    "category": "Adventure",
+    "exc": 60,
+    "places": [
+     "Dudhsagar Falls",
+     "Spice Plantation Tour",
+     "Salim Ali Bird Sanctuary",
+     "Mandovi River Cruise"
+    ]
+   },
+   {
+    "name": "Wild Goa",
+    "zone": "PANAJI",
+    "category": "Wildlife",
+    "exc": 45,
+    "places": [
+     "Mollem National Park",
+     "Bhagwan Mahavir Wildlife Sanctuary",
+     "Tambdi Surla Temple",
+     "Cotigao Wildlife Sanctuary"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Taj Fort Aguada Resort & Spa",
+    "zone": "CANDOLIM",
+    "tier": 3,
+    "rate": 19000,
+    "address": "Sinquerim, Candolim, Bardez, Goa 403515",
+    "site": "https://www.tajhotels.com"
+   },
+   {
+    "name": "Novotel Goa Resort & Spa",
+    "zone": "CANDOLIM",
+    "tier": 2,
+    "rate": 7500,
+    "address": "Holiday Street, Candolim, Goa 403515",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Hyatt Centric Candolim Goa",
+    "zone": "CANDOLIM",
+    "tier": 2,
+    "rate": 8500,
+    "address": "Candolim, Bardez, Goa",
+    "site": "https://www.hyatt.com"
+   },
+   {
+    "name": "ibis Styles Goa Calangute",
+    "zone": "BAGA",
+    "tier": 1,
+    "rate": 4200,
+    "address": "Naikavaddo, Calangute, Goa 403516",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Zostel Goa (Vagator)",
+    "zone": "BAGA",
+    "tier": 1,
+    "rate": 2200,
+    "address": "Vagator, Bardez, Goa",
+    "site": "https://www.zostel.com"
+   },
+   {
+    "name": "Vivanta Goa, Panaji",
+    "zone": "PANAJI",
+    "tier": 2,
+    "rate": 8000,
+    "address": "Dr. Dada Vaidya Road, Panaji, Goa 403001",
+    "site": "https://www.tajhotels.com"
+   },
+   {
+    "name": "Hotel Fidalgo",
+    "zone": "PANAJI",
+    "tier": 2,
+    "rate": 5500,
+    "address": "18th June Road, Panaji, Goa 403001",
+    "site": ""
+   },
+   {
+    "name": "WelcomHeritage Panjim Inn",
+    "zone": "PANAJI",
+    "tier": 2,
+    "rate": 4800,
+    "address": "E-212, Rua 31 de Janeiro, Fontainhas, Panaji, Goa 403001",
+    "site": ""
+   },
+   {
+    "name": "Panjim People",
+    "zone": "PANAJI",
+    "tier": 2,
+    "rate": 4500,
+    "address": "Fontainhas, Panaji, Goa 403001",
+    "site": ""
+   },
+   {
+    "name": "Hotel Mandovi",
+    "zone": "PANAJI",
+    "tier": 1,
+    "rate": 3800,
+    "address": "D.B. Marg, Panaji, Goa 403001",
+    "site": ""
+   },
+   {
+    "name": "Grand Hyatt Goa",
+    "zone": "PANAJI",
+    "tier": 3,
+    "rate": 15000,
+    "address": "Bambolim Bay, Goa 403202",
+    "site": "https://www.hyatt.com"
+   },
+   {
+    "name": "Caravela Beach Resort Goa",
+    "zone": "SOUTH",
+    "tier": 2,
+    "rate": 6500,
+    "address": "Varca Beach, Salcete, Goa 403721",
+    "site": ""
+   },
+   {
+    "name": "The Leela Goa",
+    "zone": "SOUTH",
+    "tier": 3,
+    "rate": 19000,
+    "address": "Mobor, Cavelossim, Salcete, Goa 403731",
+    "site": "https://www.theleela.com"
+   },
+   {
+    "name": "Alila Diwa Goa",
+    "zone": "SOUTH",
+    "tier": 3,
+    "rate": 12000,
+    "address": "Majorda, Salcete, Goa 403713",
+    "site": "https://www.hyatt.com"
+   },
+   {
+    "name": "Holiday Inn Resort Goa",
+    "zone": "SOUTH",
+    "tier": 2,
+    "rate": 8000,
+    "address": "Mobor Beach, Cavelossim, Goa 403731",
+    "site": "https://www.ihg.com"
+   },
+   {
+    "name": "The Lalit Golf & Spa Resort Goa",
+    "zone": "PALOLEM",
+    "tier": 3,
+    "rate": 9000,
+    "address": "Raj Baga Beach, Canacona, Goa 403702",
+    "site": "https://www.thelalit.com"
+   },
+   {
+    "name": "Zostel Palolem",
+    "zone": "PALOLEM",
+    "tier": 1,
+    "rate": 2000,
+    "address": "Palolem, Canacona, Goa",
+    "site": "https://www.zostel.com"
+   }
+  ]
+ },
+ {
+  "name": "Delhi",
+  "aliases": [
+   "delhi",
+   "new delhi",
+   "ncr"
+  ],
+  "country": "India",
+  "intl": false,
+  "lat": 28.6139,
+  "lon": 77.209,
+  "costIndex": 1.1,
+  "activityIndex": 1.0,
+  "flightReturn": 0,
+  "visaInsurance": 0,
+  "zones": [
+   {
+    "id": "OLD",
+    "name": "Old Delhi & Chandni Chowk",
+    "lat": 28.6562,
+    "lon": 77.241
+   },
+   {
+    "id": "CENTRAL",
+    "name": "Connaught Place & Central Delhi",
+    "lat": 28.6315,
+    "lon": 77.2167
+   },
+   {
+    "id": "SOUTH",
+    "name": "South Delhi (Saket, Hauz Khas, Nehru Place)",
+    "lat": 28.545,
+    "lon": 77.205
+   },
+   {
+    "id": "EAST",
+    "name": "East Delhi & Yamuna Side",
+    "lat": 28.6127,
+    "lon": 77.2773
+   },
+   {
+    "id": "AERO",
+    "name": "Aerocity",
+    "lat": 28.5562,
+    "lon": 77.1199
+   }
+  ],
+  "areas": [
+   {
+    "name": "Old Delhi",
+    "zone": "OLD",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Red Fort",
+     "Jama Masjid",
+     "Chandni Chowk",
+     "Raj Ghat"
+    ]
+   },
+   {
+    "name": "Central Delhi",
+    "zone": "CENTRAL",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "India Gate",
+     "Rashtrapati Bhavan",
+     "Kartavya Path",
+     "National War Memorial"
+    ]
+   },
+   {
+    "name": "New Delhi",
+    "zone": "CENTRAL",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Humayun's Tomb",
+     "Lodhi Garden",
+     "Safdarjung Tomb",
+     "Khan Market"
+    ]
+   },
+   {
+    "name": "Museum District",
+    "zone": "CENTRAL",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "National Museum",
+     "National Gallery of Modern Art",
+     "Gandhi Smriti",
+     "Nehru Planetarium"
+    ]
+   },
+   {
+    "name": "South Delhi",
+    "zone": "SOUTH",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Qutub Minar",
+     "Mehrauli Archaeological Park",
+     "Lotus Temple",
+     "Sunder Nursery"
+    ]
+   },
+   {
+    "name": "Saket",
+    "zone": "SOUTH",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Dilli Haat INA",
+     "Garden of Five Senses",
+     "Select CITYWALK",
+     "Sanjay Van"
+    ]
+   },
+   {
+    "name": "Hauz Khas",
+    "zone": "SOUTH",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Hauz Khas Village",
+     "Hauz Khas Fort",
+     "Deer Park",
+     "Hauz Khas Lake"
+    ]
+   },
+   {
+    "name": "Yamuna Side",
+    "zone": "EAST",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Akshardham Temple",
+     "National Zoological Park",
+     "Purana Qila",
+     "Waste to Wonder Park"
+    ]
+   },
+   {
+    "name": "Connaught Place",
+    "zone": "CENTRAL",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Connaught Place",
+     "Jantar Mantar",
+     "Agrasen ki Baoli",
+     "Gurudwara Bangla Sahib"
+    ]
+   },
+   {
+    "name": "Delhi Heritage",
+    "zone": "CENTRAL",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "National Handicrafts and Handlooms Museum",
+     "National Rail Museum",
+     "Indira Gandhi Memorial Museum",
+     "Teen Murti Bhavan"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "The Imperial New Delhi",
+    "zone": "CENTRAL",
+    "tier": 3,
+    "rate": 24000,
+    "address": "Janpath, Connaught Place, New Delhi 110001",
+    "site": "https://www.theimperialindia.com"
+   },
+   {
+    "name": "Taj Mahal Hotel, New Delhi",
+    "zone": "CENTRAL",
+    "tier": 3,
+    "rate": 21000,
+    "address": "1 Man Singh Road, New Delhi 110011",
+    "site": "https://www.tajhotels.com"
+   },
+   {
+    "name": "The Leela Palace New Delhi",
+    "zone": "CENTRAL",
+    "tier": 3,
+    "rate": 27000,
+    "address": "Diplomatic Enclave, Chanakyapuri, New Delhi 110023",
+    "site": "https://www.theleela.com"
+   },
+   {
+    "name": "The Claridges",
+    "zone": "CENTRAL",
+    "tier": 3,
+    "rate": 15000,
+    "address": "12 Dr APJ Abdul Kalam Road, New Delhi 110011",
+    "site": ""
+   },
+   {
+    "name": "The Lalit New Delhi",
+    "zone": "CENTRAL",
+    "tier": 2,
+    "rate": 9500,
+    "address": "Barakhamba Avenue, Connaught Place, New Delhi 110001",
+    "site": "https://www.thelalit.com"
+   },
+   {
+    "name": "The Metropolitan Hotel & Spa",
+    "zone": "CENTRAL",
+    "tier": 2,
+    "rate": 8500,
+    "address": "Bangla Sahib Road, Connaught Place, New Delhi 110001",
+    "site": ""
+   },
+   {
+    "name": "The Park New Delhi",
+    "zone": "CENTRAL",
+    "tier": 2,
+    "rate": 11000,
+    "address": "15 Parliament Street, New Delhi 110001",
+    "site": "https://www.theparkhotels.com"
+   },
+   {
+    "name": "Bloomrooms @ Janpath",
+    "zone": "CENTRAL",
+    "tier": 1,
+    "rate": 4300,
+    "address": "15-A Janpath Lane, Connaught Place, New Delhi 110001",
+    "site": "https://www.bloomrooms.com"
+   },
+   {
+    "name": "Haveli Dharampura",
+    "zone": "OLD",
+    "tier": 2,
+    "rate": 11500,
+    "address": "2293 Gali Guliyan, Dharampura, Chandni Chowk, Delhi 110006",
+    "site": ""
+   },
+   {
+    "name": "Hotel Tara Palace",
+    "zone": "OLD",
+    "tier": 1,
+    "rate": 3800,
+    "address": "Chandni Chowk, Delhi 110006",
+    "site": ""
+   },
+   {
+    "name": "Hotel Broadway",
+    "zone": "OLD",
+    "tier": 1,
+    "rate": 4500,
+    "address": "4/15-A Asaf Ali Road, Delhi 110002",
+    "site": ""
+   },
+   {
+    "name": "Zostel Delhi",
+    "zone": "CENTRAL",
+    "tier": 1,
+    "rate": 1900,
+    "address": "Paharganj, New Delhi 110055",
+    "site": "https://www.zostel.com"
+   },
+   {
+    "name": "Eros Hotel New Delhi, Nehru Place",
+    "zone": "SOUTH",
+    "tier": 2,
+    "rate": 8500,
+    "address": "Nehru Place, New Delhi 110019",
+    "site": ""
+   },
+   {
+    "name": "Hyatt Regency Delhi",
+    "zone": "SOUTH",
+    "tier": 3,
+    "rate": 11500,
+    "address": "Bhikaji Cama Place, Ring Road, New Delhi 110066",
+    "site": "https://www.hyatt.com"
+   },
+   {
+    "name": "The Manor",
+    "zone": "SOUTH",
+    "tier": 3,
+    "rate": 13000,
+    "address": "77 Friends Colony West, New Delhi 110065",
+    "site": ""
+   },
+   {
+    "name": "Andaz Delhi",
+    "zone": "AERO",
+    "tier": 3,
+    "rate": 16500,
+    "address": "Asset 1, Hospitality District, Aerocity, New Delhi 110037",
+    "site": "https://www.hyatt.com"
+   },
+   {
+    "name": "ibis New Delhi Aerocity",
+    "zone": "AERO",
+    "tier": 1,
+    "rate": 4800,
+    "address": "Asset 1, Hospitality District, Aerocity, New Delhi 110037",
+    "site": "https://all.accor.com"
+   }
+  ]
+ },
+ {
+  "name": "Mumbai",
+  "aliases": [
+   "mumbai",
+   "bombay"
+  ],
+  "country": "India",
+  "intl": false,
+  "lat": 18.975,
+  "lon": 72.8258,
+  "costIndex": 1.25,
+  "activityIndex": 1.0,
+  "flightReturn": 0,
+  "visaInsurance": 0,
+  "zones": [
+   {
+    "id": "SOUTH",
+    "name": "Colaba, Fort & Marine Drive",
+    "lat": 18.933,
+    "lon": 72.8325
+   },
+   {
+    "id": "BANDRA",
+    "name": "Bandra",
+    "lat": 19.0596,
+    "lon": 72.8295
+   },
+   {
+    "id": "JUHU",
+    "name": "Juhu",
+    "lat": 19.0988,
+    "lon": 72.8267
+   },
+   {
+    "id": "CENTRAL",
+    "name": "Worli, Dadar & Lower Parel",
+    "lat": 19.01,
+    "lon": 72.83
+   }
+  ],
+  "areas": [
+   {
+    "name": "Colaba",
+    "zone": "SOUTH",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Gateway of India",
+     "Afghan Church Colaba",
+     "Colaba Causeway",
+     "Sassoon Dock"
+    ]
+   },
+   {
+    "name": "South Mumbai",
+    "zone": "SOUTH",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Chhatrapati Shivaji Terminus",
+     "Marine Drive",
+     "Flora Fountain",
+     "Horniman Circle"
+    ]
+   },
+   {
+    "name": "Fort",
+    "zone": "SOUTH",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Kala Ghoda",
+     "Jehangir Art Gallery",
+     "Asiatic Library",
+     "St. Thomas Cathedral"
+    ]
+   },
+   {
+    "name": "Bandra",
+    "zone": "BANDRA",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Bandra Fort",
+     "Bandstand",
+     "Mount Mary Basilica",
+     "Carter Road"
+    ]
+   },
+   {
+    "name": "Juhu",
+    "zone": "JUHU",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Juhu Beach",
+     "Prithvi Theatre",
+     "ISKCON Juhu",
+     "Versova Beach"
+    ]
+   },
+   {
+    "name": "Worli",
+    "zone": "CENTRAL",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Worli Sea Face",
+     "Bandra-Worli Sea Link View",
+     "Siddhivinayak Temple",
+     "Nehru Planetarium"
+    ]
+   },
+   {
+    "name": "Dadar",
+    "zone": "CENTRAL",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Shivaji Park",
+     "Dadar Flower Market",
+     "Ramakrishna Mission",
+     "Five Gardens"
+    ]
+   },
+   {
+    "name": "Sanjay Gandhi",
+    "zone": "JUHU",
+    "category": "Wildlife",
+    "exc": 20,
+    "places": [
+     "Sanjay Gandhi National Park",
+     "Kanheri Caves",
+     "Powai Lake",
+     "Vihar Lake"
+    ]
+   },
+   {
+    "name": "Markets",
+    "zone": "SOUTH",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Crawford Market",
+     "Zaveri Bazaar",
+     "Mangaldas Market",
+     "Mohammed Ali Road Food Trail"
+    ]
+   },
+   {
+    "name": "Arts",
+    "zone": "SOUTH",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "NCPA",
+     "Dr. Bhau Daji Lad Museum",
+     "National Gallery of Modern Art",
+     "CSMVS Museum"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "The Taj Mahal Palace, Mumbai",
+    "zone": "SOUTH",
+    "tier": 3,
+    "rate": 32000,
+    "address": "Apollo Bunder, Colaba, Mumbai 400001",
+    "site": "https://www.tajhotels.com"
+   },
+   {
+    "name": "The Oberoi, Mumbai",
+    "zone": "SOUTH",
+    "tier": 3,
+    "rate": 27000,
+    "address": "Nariman Point, Mumbai 400021",
+    "site": "https://www.oberoihotels.com"
+   },
+   {
+    "name": "Trident Nariman Point",
+    "zone": "SOUTH",
+    "tier": 3,
+    "rate": 15500,
+    "address": "Nariman Point, Mumbai 400021",
+    "site": "https://www.tridenthotels.com"
+   },
+   {
+    "name": "Hotel Marine Plaza",
+    "zone": "SOUTH",
+    "tier": 2,
+    "rate": 10500,
+    "address": "29 Marine Drive, Mumbai 400020",
+    "site": ""
+   },
+   {
+    "name": "The Gordon House Hotel",
+    "zone": "SOUTH",
+    "tier": 2,
+    "rate": 9500,
+    "address": "5 Battery Street, Colaba, Mumbai 400001",
+    "site": ""
+   },
+   {
+    "name": "Fariyas Hotel Mumbai",
+    "zone": "SOUTH",
+    "tier": 2,
+    "rate": 9000,
+    "address": "25 Arthur Bunder Road, Colaba, Mumbai 400005",
+    "site": ""
+   },
+   {
+    "name": "Abode Bombay",
+    "zone": "SOUTH",
+    "tier": 1,
+    "rate": 5500,
+    "address": "Tulloch Road, Apollo Bunder, Colaba, Mumbai 400001",
+    "site": ""
+   },
+   {
+    "name": "Hotel Suba Palace",
+    "zone": "SOUTH",
+    "tier": 1,
+    "rate": 5000,
+    "address": "Colaba Causeway, Apollo Bunder, Mumbai 400001",
+    "site": ""
+   },
+   {
+    "name": "The Residency Hotel Fort",
+    "zone": "SOUTH",
+    "tier": 1,
+    "rate": 5200,
+    "address": "26 Rustom Sidhwa Marg, Fort, Mumbai 400001",
+    "site": ""
+   },
+   {
+    "name": "Hotel Sea Green South",
+    "zone": "SOUTH",
+    "tier": 1,
+    "rate": 6200,
+    "address": "145 Marine Drive, Mumbai 400020",
+    "site": ""
+   },
+   {
+    "name": "Taj Lands End",
+    "zone": "BANDRA",
+    "tier": 3,
+    "rate": 18500,
+    "address": "Bandstand, Bandra West, Mumbai 400050",
+    "site": "https://www.tajhotels.com"
+   },
+   {
+    "name": "Sofitel Mumbai BKC",
+    "zone": "BANDRA",
+    "tier": 3,
+    "rate": 16500,
+    "address": "C-57 G Block, Bandra Kurla Complex, Mumbai 400051",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Novotel Mumbai Juhu Beach",
+    "zone": "JUHU",
+    "tier": 2,
+    "rate": 11500,
+    "address": "Balraj Sahani Marg, Juhu Beach, Mumbai 400049",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Sea Princess Hotel",
+    "zone": "JUHU",
+    "tier": 2,
+    "rate": 9500,
+    "address": "118 Juhu Tara Road, Juhu Beach, Mumbai 400049",
+    "site": ""
+   },
+   {
+    "name": "Ramee Guestline Hotel Juhu",
+    "zone": "JUHU",
+    "tier": 1,
+    "rate": 5800,
+    "address": "462 A.B. Nair Road, Juhu, Mumbai 400049",
+    "site": ""
+   },
+   {
+    "name": "ITC Grand Central",
+    "zone": "CENTRAL",
+    "tier": 3,
+    "rate": 13500,
+    "address": "287 Dr Babasaheb Ambedkar Road, Parel, Mumbai 400012",
+    "site": "https://www.itchotels.com"
+   },
+   {
+    "name": "The St. Regis Mumbai",
+    "zone": "CENTRAL",
+    "tier": 3,
+    "rate": 24000,
+    "address": "462 Senapati Bapat Marg, Lower Parel, Mumbai 400013",
+    "site": "https://www.marriott.com"
+   }
+  ]
+ },
+ {
+  "name": "Jaipur",
+  "aliases": [
+   "jaipur",
+   "pink city"
+  ],
+  "country": "India",
+  "intl": false,
+  "lat": 26.9124,
+  "lon": 75.7873,
+  "costIndex": 0.95,
+  "activityIndex": 1.0,
+  "flightReturn": 0,
+  "visaInsurance": 0,
+  "zones": [
+   {
+    "id": "PINK",
+    "name": "Pink City (Old Jaipur)",
+    "lat": 26.9239,
+    "lon": 75.8267
+   },
+   {
+    "id": "AMER",
+    "name": "Amer Road",
+    "lat": 26.97,
+    "lon": 75.85
+   },
+   {
+    "id": "BANI",
+    "name": "Bani Park",
+    "lat": 26.936,
+    "lon": 75.797
+   },
+   {
+    "id": "CIVIL",
+    "name": "C-Scheme, MI Road & Civil Lines",
+    "lat": 26.912,
+    "lon": 75.8
+   },
+   {
+    "id": "RAMBAGH",
+    "name": "Rambagh & Jawahar Circle",
+    "lat": 26.8996,
+    "lon": 75.8089
+   }
+  ],
+  "areas": [
+   {
+    "name": "Pink City",
+    "zone": "PINK",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Hawa Mahal",
+     "City Palace",
+     "Jantar Mantar",
+     "Johari Bazaar"
+    ]
+   },
+   {
+    "name": "Amer",
+    "zone": "AMER",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Amber Fort",
+     "Panna Meena ka Kund",
+     "Jal Mahal View",
+     "Jaigarh Fort"
+    ]
+   },
+   {
+    "name": "Nahargarh",
+    "zone": "BANI",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Nahargarh Fort",
+     "Sunset Point",
+     "Nahargarh Biological Park",
+     "Jaipur Wax Museum"
+    ]
+   },
+   {
+    "name": "Museums",
+    "zone": "CIVIL",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Albert Hall Museum",
+     "Anokhi Museum",
+     "Dolls Museum",
+     "Amrapali Museum"
+    ]
+   },
+   {
+    "name": "Markets",
+    "zone": "PINK",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Bapu Bazaar",
+     "Tripolia Bazaar",
+     "MI Road",
+     "Kishanpole Market"
+    ]
+   },
+   {
+    "name": "Temples",
+    "zone": "PINK",
+    "category": "Culture",
+    "exc": 5,
+    "places": [
+     "Birla Mandir",
+     "Galtaji",
+     "Govind Dev Ji Temple",
+     "Moti Dungri Temple"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "CIVIL",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Laxmi Misthan Bhandar (LMB)",
+     "Masala Chowk",
+     "Lassiwala MI Road",
+     "Rawat Mishtan Bhandar"
+    ]
+   },
+   {
+    "name": "Heritage",
+    "zone": "RAMBAGH",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Patrika Gate",
+     "Sisodia Rani Garden",
+     "Vidyadhar Garden",
+     "Chokhi Dhani"
+    ]
+   },
+   {
+    "name": "Crafts",
+    "zone": "PINK",
+    "category": "Shopping",
+    "exc": 12,
+    "places": [
+     "Blue Pottery Workshop",
+     "Block Printing Workshop",
+     "Gemstone Market",
+     "Sanganer Block Printing Village"
+    ]
+   },
+   {
+    "name": "Relaxed",
+    "zone": "CIVIL",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Central Park",
+     "Jawahar Circle",
+     "Ram Niwas Garden",
+     "Rambagh Heritage Walk"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Rambagh Palace",
+    "zone": "RAMBAGH",
+    "tier": 3,
+    "rate": 45000,
+    "address": "Bhawani Singh Road, Jaipur 302005",
+    "site": "https://www.tajhotels.com"
+   },
+   {
+    "name": "Taj Jai Mahal Palace",
+    "zone": "CIVIL",
+    "tier": 3,
+    "rate": 17000,
+    "address": "Jacob Road, Civil Lines, Jaipur 302006",
+    "site": "https://www.tajhotels.com"
+   },
+   {
+    "name": "ITC Rajputana",
+    "zone": "CIVIL",
+    "tier": 3,
+    "rate": 9500,
+    "address": "Palace Road, Jaipur 302006",
+    "site": "https://www.itchotels.com"
+   },
+   {
+    "name": "Samode Haveli",
+    "zone": "PINK",
+    "tier": 3,
+    "rate": 13000,
+    "address": "Gangapole, Jaipur 302002",
+    "site": ""
+   },
+   {
+    "name": "Trident Jaipur",
+    "zone": "AMER",
+    "tier": 2,
+    "rate": 7500,
+    "address": "Amer Road, near Jal Mahal, Jaipur 302002",
+    "site": "https://www.tridenthotels.com"
+   },
+   {
+    "name": "Clarks Amer",
+    "zone": "AMER",
+    "tier": 2,
+    "rate": 6500,
+    "address": "Jawahar Lal Nehru Marg, Jaipur 302018",
+    "site": ""
+   },
+   {
+    "name": "Radisson Jaipur City Center",
+    "zone": "CIVIL",
+    "tier": 2,
+    "rate": 7200,
+    "address": "2 Sawai Ram Singh Road, C-Scheme, Jaipur",
+    "site": "https://www.radissonhotels.com"
+   },
+   {
+    "name": "Shahpura House",
+    "zone": "BANI",
+    "tier": 2,
+    "rate": 6200,
+    "address": "D-257, Devi Marg, Bani Park, Jaipur 302016",
+    "site": ""
+   },
+   {
+    "name": "Alsisar Haveli",
+    "zone": "CIVIL",
+    "tier": 2,
+    "rate": 5800,
+    "address": "Sansar Chandra Road, Jaipur 302001",
+    "site": ""
+   },
+   {
+    "name": "Umaid Bhawan",
+    "zone": "BANI",
+    "tier": 1,
+    "rate": 3600,
+    "address": "D-206 Behari Marg, Bani Park, Jaipur 302016",
+    "site": ""
+   },
+   {
+    "name": "Hotel Arya Niwas",
+    "zone": "CIVIL",
+    "tier": 1,
+    "rate": 3800,
+    "address": "Sansar Chandra Road, Jaipur 302001",
+    "site": ""
+   },
+   {
+    "name": "Hotel Pearl Palace",
+    "zone": "CIVIL",
+    "tier": 1,
+    "rate": 2800,
+    "address": "Hari Kishan Somani Marg, Hathroi Fort, Jaipur 302001",
+    "site": ""
+   },
+   {
+    "name": "Zostel Jaipur",
+    "zone": "PINK",
+    "tier": 1,
+    "rate": 1700,
+    "address": "Near Chandpole, Jaipur",
+    "site": "https://www.zostel.com"
+   }
+  ]
+ },
+ {
+  "name": "Kerala",
+  "aliases": [
+   "kerala",
+   "kochi",
+   "cochin",
+   "munnar",
+   "alleppey",
+   "alappuzha",
+   "thekkady",
+   "varkala",
+   "trivandrum",
+   "thiruvananthapuram",
+   "kumarakom"
+  ],
+  "country": "India",
+  "intl": false,
+  "lat": 9.9312,
+  "lon": 76.2673,
+  "costIndex": 1.05,
+  "activityIndex": 1.0,
+  "flightReturn": 0,
+  "visaInsurance": 0,
+  "zones": [
+   {
+    "id": "KOCHI",
+    "name": "Kochi & Fort Kochi",
+    "lat": 9.9658,
+    "lon": 76.2421
+   },
+   {
+    "id": "ALLEPPEY",
+    "name": "Alappuzha (Alleppey)",
+    "lat": 9.4981,
+    "lon": 76.3388
+   },
+   {
+    "id": "KUMARAKOM",
+    "name": "Kumarakom",
+    "lat": 9.6176,
+    "lon": 76.429
+   },
+   {
+    "id": "MUNNAR",
+    "name": "Munnar",
+    "lat": 10.0889,
+    "lon": 77.0595
+   },
+   {
+    "id": "THEKKADY",
+    "name": "Thekkady",
+    "lat": 9.6,
+    "lon": 77.1667
+   },
+   {
+    "id": "VARKALA",
+    "name": "Varkala",
+    "lat": 8.7379,
+    "lon": 76.7163
+   },
+   {
+    "id": "TRIVANDRUM",
+    "name": "Thiruvananthapuram & Kovalam",
+    "lat": 8.5241,
+    "lon": 76.9366
+   }
+  ],
+  "areas": [
+   {
+    "name": "Kochi Fort",
+    "zone": "KOCHI",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Fort Kochi Beach",
+     "St. Francis Church",
+     "Chinese Fishing Nets",
+     "Santa Cruz Basilica"
+    ]
+   },
+   {
+    "name": "Mattancherry",
+    "zone": "KOCHI",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Mattancherry Palace",
+     "Jew Town",
+     "Paradesi Synagogue",
+     "Spice Market"
+    ]
+   },
+   {
+    "name": "Kochi Arts",
+    "zone": "KOCHI",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Kerala Folklore Museum",
+     "Aspinwall House",
+     "Marine Drive",
+     "Bolgatty Palace"
+    ]
+   },
+   {
+    "name": "Backwaters",
+    "zone": "ALLEPPEY",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Alleppey Houseboat",
+     "Alappuzha Beach",
+     "Kuttanad Village",
+     "Backwater Canoe Ride"
+    ]
+   },
+   {
+    "name": "Kumarakom",
+    "zone": "KUMARAKOM",
+    "category": "Wildlife",
+    "exc": 0,
+    "places": [
+     "Kumarakom Bird Sanctuary",
+     "Vembanad Lake",
+     "Pathiramanal Island",
+     "Kumarakom Backwater Cruise"
+    ]
+   },
+   {
+    "name": "Munnar",
+    "zone": "MUNNAR",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Tea Museum",
+     "Tea Garden Walk",
+     "Mattupetty Dam",
+     "Echo Point"
+    ]
+   },
+   {
+    "name": "Munnar Hills",
+    "zone": "MUNNAR",
+    "category": "Wildlife",
+    "exc": 0,
+    "places": [
+     "Top Station",
+     "Eravikulam National Park",
+     "Kundala Lake",
+     "Attukad Waterfalls"
+    ]
+   },
+   {
+    "name": "Thekkady",
+    "zone": "THEKKADY",
+    "category": "Wildlife",
+    "exc": 0,
+    "places": [
+     "Periyar Wildlife Sanctuary",
+     "Bamboo Rafting",
+     "Spice Plantation",
+     "Elephant Junction"
+    ]
+   },
+   {
+    "name": "Varkala",
+    "zone": "VARKALA",
+    "category": "Beach",
+    "exc": 0,
+    "places": [
+     "Varkala Cliff",
+     "Papanasam Beach",
+     "Janardhana Temple",
+     "Sunset Cliff Walk"
+    ]
+   },
+   {
+    "name": "Trivandrum",
+    "zone": "TRIVANDRUM",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Padmanabhaswamy Temple",
+     "Napier Museum",
+     "Kovalam Beach",
+     "Kuthira Malika Palace"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Brunton Boatyard",
+    "zone": "KOCHI",
+    "tier": 3,
+    "rate": 15000,
+    "address": "Calvathy Road, Fort Kochi, Kochi 682001",
+    "site": ""
+   },
+   {
+    "name": "Taj Malabar Resort & Spa, Cochin",
+    "zone": "KOCHI",
+    "tier": 3,
+    "rate": 14500,
+    "address": "Willingdon Island, Kochi 682003",
+    "site": "https://www.tajhotels.com"
+   },
+   {
+    "name": "Forte Kochi",
+    "zone": "KOCHI",
+    "tier": 2,
+    "rate": 8000,
+    "address": "2/6A Calvathy Road, Fort Kochi, Kochi 682001",
+    "site": "https://www.fortekochi.in"
+   },
+   {
+    "name": "The Gateway Hotel Marine Drive Ernakulam",
+    "zone": "KOCHI",
+    "tier": 2,
+    "rate": 7500,
+    "address": "Marine Drive, Ernakulam, Kochi 682031",
+    "site": "https://www.tajhotels.com"
+   },
+   {
+    "name": "Abad Plaza",
+    "zone": "KOCHI",
+    "tier": 1,
+    "rate": 4800,
+    "address": "M.G. Road, Ernakulam, Kochi 682016",
+    "site": "https://www.abadhotels.com"
+   },
+   {
+    "name": "Seagull Hotel",
+    "zone": "KOCHI",
+    "tier": 1,
+    "rate": 3800,
+    "address": "Calvathy Road, Fort Kochi, Kochi 682001",
+    "site": ""
+   },
+   {
+    "name": "Punnamada Resort",
+    "zone": "ALLEPPEY",
+    "tier": 2,
+    "rate": 8500,
+    "address": "Punnamada, Alappuzha, Kerala 688006",
+    "site": ""
+   },
+   {
+    "name": "Raheem Residency",
+    "zone": "ALLEPPEY",
+    "tier": 3,
+    "rate": 13000,
+    "address": "Beach Road, Alappuzha, Kerala 688001",
+    "site": ""
+   },
+   {
+    "name": "Abad Turtle Beach",
+    "zone": "ALLEPPEY",
+    "tier": 2,
+    "rate": 6500,
+    "address": "Mararikulam, Alappuzha, Kerala 688549",
+    "site": "https://www.abadhotels.com"
+   },
+   {
+    "name": "Taj Kumarakom Resort & Spa",
+    "zone": "KUMARAKOM",
+    "tier": 3,
+    "rate": 21000,
+    "address": "Kumarakom, Kottayam, Kerala 686563",
+    "site": "https://www.tajhotels.com"
+   },
+   {
+    "name": "Kumarakom Lake Resort",
+    "zone": "KUMARAKOM",
+    "tier": 3,
+    "rate": 14500,
+    "address": "Kumarakom, Kottayam, Kerala 686563",
+    "site": ""
+   },
+   {
+    "name": "Abad Whispering Palms",
+    "zone": "KUMARAKOM",
+    "tier": 2,
+    "rate": 7000,
+    "address": "Kumarakom, Kottayam, Kerala 686563",
+    "site": "https://www.abadhotels.com"
+   },
+   {
+    "name": "Tea County Munnar (KTDC)",
+    "zone": "MUNNAR",
+    "tier": 2,
+    "rate": 6000,
+    "address": "Kannan Devan Hills, Munnar, Kerala 685612",
+    "site": ""
+   },
+   {
+    "name": "Windermere Estate",
+    "zone": "MUNNAR",
+    "tier": 3,
+    "rate": 13500,
+    "address": "Pothamedu, Munnar, Kerala 685612",
+    "site": ""
+   },
+   {
+    "name": "Sterling Munnar",
+    "zone": "MUNNAR",
+    "tier": 2,
+    "rate": 7000,
+    "address": "Munnar, Kerala 685612",
+    "site": ""
+   },
+   {
+    "name": "Spice Village (CGH Earth)",
+    "zone": "THEKKADY",
+    "tier": 3,
+    "rate": 18500,
+    "address": "Thekkady Road, Kumily, Kerala 685509",
+    "site": ""
+   },
+   {
+    "name": "Abad Green Forest",
+    "zone": "THEKKADY",
+    "tier": 2,
+    "rate": 5800,
+    "address": "Thekkady, Kumily, Kerala 685509",
+    "site": "https://www.abadhotels.com"
+   },
+   {
+    "name": "Elephant Court",
+    "zone": "THEKKADY",
+    "tier": 2,
+    "rate": 5500,
+    "address": "Thekkady Road, Kumily, Kerala 685509",
+    "site": ""
+   },
+   {
+    "name": "Hindustan Beach Retreat",
+    "zone": "VARKALA",
+    "tier": 2,
+    "rate": 5500,
+    "address": "Papanasam Beach, Varkala, Kerala 695141",
+    "site": ""
+   },
+   {
+    "name": "Clafouti Beach Resort",
+    "zone": "VARKALA",
+    "tier": 2,
+    "rate": 6500,
+    "address": "North Cliff, Varkala, Kerala 695141",
+    "site": ""
+   },
+   {
+    "name": "Villa Jacaranda",
+    "zone": "VARKALA",
+    "tier": 2,
+    "rate": 6000,
+    "address": "North Cliff, Varkala, Kerala 695141",
+    "site": ""
+   },
+   {
+    "name": "Vivanta Trivandrum",
+    "zone": "TRIVANDRUM",
+    "tier": 2,
+    "rate": 8000,
+    "address": "Thycaud, Thiruvananthapuram, Kerala 695014",
+    "site": "https://www.tajhotels.com"
+   },
+   {
+    "name": "The Leela Kovalam Beach",
+    "zone": "TRIVANDRUM",
+    "tier": 3,
+    "rate": 21000,
+    "address": "Kovalam, Thiruvananthapuram, Kerala 695527",
+    "site": "https://www.theleela.com"
+   },
+   {
+    "name": "Hotel Residency Tower",
+    "zone": "TRIVANDRUM",
+    "tier": 1,
+    "rate": 4800,
+    "address": "Sasthamangalam, Thiruvananthapuram, Kerala 695010",
+    "site": ""
+   }
+  ]
+ },
+ {
+  "name": "Pune",
+  "aliases": [
+   "pune",
+   "poona"
+  ],
+  "country": "India",
+  "intl": false,
+  "lat": 18.5204,
+  "lon": 73.8567,
+  "costIndex": 1.0,
+  "activityIndex": 1.0,
+  "flightReturn": 0,
+  "visaInsurance": 0,
+  "zones": [
+   {
+    "id": "OLD",
+    "name": "Old Pune (Shaniwar Peth, Laxmi Road)",
+    "lat": 18.5195,
+    "lon": 73.8553
+   },
+   {
+    "id": "KP",
+    "name": "Koregaon Park",
+    "lat": 18.5362,
+    "lon": 73.8938
+   },
+   {
+    "id": "DECCAN",
+    "name": "Deccan, FC Road & Shivajinagar",
+    "lat": 18.5167,
+    "lon": 73.8416
+   },
+   {
+    "id": "KHARADI",
+    "name": "Kharadi & Nagar Road",
+    "lat": 18.551,
+    "lon": 73.94
+   }
+  ],
+  "areas": [
+   {
+    "name": "Old Pune",
+    "zone": "OLD",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Shaniwar Wada",
+     "Lal Mahal",
+     "Dagdusheth Temple",
+     "Tulshibaug"
+    ]
+   },
+   {
+    "name": "Koregaon Park",
+    "zone": "KP",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Osho Garden",
+     "Osho Teerth Park",
+     "Koregaon Park Plaza",
+     "Mula-Mutha Riverside"
+    ]
+   },
+   {
+    "name": "Sinhagad",
+    "zone": "DECCAN",
+    "category": "Adventure",
+    "exc": 30,
+    "places": [
+     "Sinhagad Fort",
+     "Panshet Viewpoint",
+     "Khadakwasla Dam",
+     "Donje Village Walk"
+    ]
+   },
+   {
+    "name": "Heritage",
+    "zone": "DECCAN",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Aga Khan Palace",
+     "Pataleshwar Cave Temple",
+     "Raja Dinkar Kelkar Museum",
+     "Vishrambaug Wada"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "DECCAN",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "FC Road Food Walk",
+     "Kayani Bakery",
+     "Vaishali Restaurant",
+     "Bedekar Misal"
+    ]
+   },
+   {
+    "name": "Nature",
+    "zone": "DECCAN",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Vetal Hill",
+     "Taljai Hills",
+     "Pashan Lake",
+     "Empress Garden"
+    ]
+   },
+   {
+    "name": "Markets",
+    "zone": "OLD",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Laxmi Road",
+     "MG Road Camp",
+     "Fashion Street",
+     "Mandai Market"
+    ]
+   },
+   {
+    "name": "Culture",
+    "zone": "DECCAN",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Rajiv Gandhi Zoological Park (Katraj)",
+     "Bharat Itihas Sanshodhak Mandal",
+     "Tribal Museum",
+     "ISKCON NVCC Pune"
+    ]
+   },
+   {
+    "name": "Weekend",
+    "zone": "DECCAN",
+    "category": "Nature",
+    "exc": 45,
+    "places": [
+     "Mulshi Lake",
+     "Tamhini Ghat",
+     "Kamshet Paragliding",
+     "Pawna Lake"
+    ]
+   },
+   {
+    "name": "Relaxed",
+    "zone": "KP",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Bund Garden",
+     "Sarasbaug",
+     "Okayama Friendship Garden",
+     "Pu La Deshpande Garden"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "JW Marriott Hotel Pune",
+    "zone": "DECCAN",
+    "tier": 3,
+    "rate": 11500,
+    "address": "Senapati Bapat Road, Pune 411053",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "The Westin Pune Koregaon Park",
+    "zone": "KP",
+    "tier": 3,
+    "rate": 10500,
+    "address": "36/3-B Koregaon Park Annexe, Mundhwa Road, Pune 411036",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "Conrad Pune",
+    "zone": "DECCAN",
+    "tier": 3,
+    "rate": 10500,
+    "address": "7 Mangaldas Road, Pune 411001",
+    "site": "https://www.hilton.com"
+   },
+   {
+    "name": "Le Méridien Pune",
+    "zone": "OLD",
+    "tier": 3,
+    "rate": 9000,
+    "address": "RBM Road, Raja Bahadur Mill Road, Pune 411001",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "Hyatt Pune",
+    "zone": "KHARADI",
+    "tier": 3,
+    "rate": 9500,
+    "address": "Weikfield IT Park, Nagar Road, Pune 411014",
+    "site": "https://www.hyatt.com"
+   },
+   {
+    "name": "Novotel Pune Nagar Road",
+    "zone": "KHARADI",
+    "tier": 2,
+    "rate": 6500,
+    "address": "Nagar Road, Viman Nagar, Pune 411014",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Radisson Blu Hotel Pune Kharadi",
+    "zone": "KHARADI",
+    "tier": 2,
+    "rate": 6500,
+    "address": "Kharadi, Pune 411014",
+    "site": "https://www.radissonhotels.com"
+   },
+   {
+    "name": "Fairfield by Marriott Pune Kharadi",
+    "zone": "KHARADI",
+    "tier": 2,
+    "rate": 5500,
+    "address": "Kharadi, Pune 411014",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "The O Hotel Pune",
+    "zone": "DECCAN",
+    "tier": 2,
+    "rate": 6800,
+    "address": "Boat Club Road, Pune 411001",
+    "site": ""
+   },
+   {
+    "name": "Hotel Deccan Rendezvous",
+    "zone": "DECCAN",
+    "tier": 1,
+    "rate": 4300,
+    "address": "Apte Road, Deccan Gymkhana, Pune 411004",
+    "site": ""
+   },
+   {
+    "name": "Hotel Shreyas",
+    "zone": "DECCAN",
+    "tier": 1,
+    "rate": 3600,
+    "address": "Apte Road, Deccan Gymkhana, Pune 411004",
+    "site": ""
+   }
+  ]
+ },
+ {
+  "name": "Bengaluru",
+  "aliases": [
+   "bengaluru",
+   "bangalore",
+   "blr"
+  ],
+  "country": "India",
+  "intl": false,
+  "lat": 12.9716,
+  "lon": 77.5946,
+  "costIndex": 1.1,
+  "activityIndex": 1.0,
+  "flightReturn": 0,
+  "visaInsurance": 0,
+  "zones": [
+   {
+    "id": "CENTRAL",
+    "name": "MG Road, Residency Road & Cubbon Park",
+    "lat": 12.974,
+    "lon": 77.6
+   },
+   {
+    "id": "OLD",
+    "name": "Basavanagudi & KR Market",
+    "lat": 12.95,
+    "lon": 77.573
+   },
+   {
+    "id": "INDIRANAGAR",
+    "name": "Indiranagar & Ulsoor",
+    "lat": 12.9784,
+    "lon": 77.6408
+   },
+   {
+    "id": "MALLESWARAM",
+    "name": "Malleswaram & Rajajinagar",
+    "lat": 13.0035,
+    "lon": 77.5646
+   },
+   {
+    "id": "WHITEFIELD",
+    "name": "Whitefield",
+    "lat": 12.9698,
+    "lon": 77.75
+   }
+  ],
+  "areas": [
+   {
+    "name": "Central",
+    "zone": "CENTRAL",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Bangalore Palace",
+     "Vidhana Soudha",
+     "Cubbon Park",
+     "Visvesvaraya Industrial and Technological Museum"
+    ]
+   },
+   {
+    "name": "Lalbagh",
+    "zone": "OLD",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Lalbagh Botanical Garden",
+     "Lalbagh Lake",
+     "Lalbagh Glass House",
+     "Kempegowda Tower Lalbagh"
+    ]
+   },
+   {
+    "name": "Old Bengaluru",
+    "zone": "OLD",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Tipu Sultan Palace",
+     "KR Market",
+     "Bull Temple",
+     "Dodda Ganesha Temple"
+    ]
+   },
+   {
+    "name": "Indiranagar & Brigade",
+    "zone": "INDIRANAGAR",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "100 Feet Road",
+     "Church Street",
+     "Commercial Street",
+     "Brigade Road"
+    ]
+   },
+   {
+    "name": "Malleswaram",
+    "zone": "MALLESWARAM",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Malleswaram 8th Cross",
+     "Kadu Malleshwara Temple",
+     "Sankey Tank",
+     "Gandhi Bazaar"
+    ]
+   },
+   {
+    "name": "Art District",
+    "zone": "CENTRAL",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "NGMA Bengaluru",
+     "Karnataka Chitrakala Parishath",
+     "Venkatappa Art Gallery",
+     "Government Museum Bengaluru"
+    ]
+   },
+   {
+    "name": "Whitefield",
+    "zone": "WHITEFIELD",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "ISKCON Temple Bengaluru",
+     "Phoenix Marketcity",
+     "Kaikondrahalli Lake",
+     "Sri Sathya Sai Baba Ashram Whitefield"
+    ]
+   },
+   {
+    "name": "Nature",
+    "zone": "CENTRAL",
+    "category": "Wildlife",
+    "exc": 25,
+    "places": [
+     "Bannerghatta Biological Park",
+     "Turahalli Forest",
+     "Jakkur Lake",
+     "Hesaraghatta Lake"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "OLD",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "VV Puram Food Street",
+     "Vidyarthi Bhavan",
+     "MTR Lalbagh Road",
+     "Brahmin's Coffee Bar"
+    ]
+   },
+   {
+    "name": "Relaxed",
+    "zone": "INDIRANAGAR",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Ulsoor Lake",
+     "Hebbal Lake",
+     "JP Park",
+     "Freedom Park"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Taj West End",
+    "zone": "CENTRAL",
+    "tier": 3,
+    "rate": 18000,
+    "address": "Race Course Road, Bengaluru 560001",
+    "site": "https://www.tajhotels.com"
+   },
+   {
+    "name": "The Oberoi, Bengaluru",
+    "zone": "CENTRAL",
+    "tier": 3,
+    "rate": 17500,
+    "address": "37-39 Mahatma Gandhi Road, Bengaluru 560001",
+    "site": "https://www.oberoihotels.com"
+   },
+   {
+    "name": "ITC Gardenia, a Luxury Collection Hotel",
+    "zone": "CENTRAL",
+    "tier": 3,
+    "rate": 13500,
+    "address": "1 Residency Road, Bengaluru 560025",
+    "site": "https://www.itchotels.com"
+   },
+   {
+    "name": "JW Marriott Hotel Bengaluru",
+    "zone": "CENTRAL",
+    "tier": 3,
+    "rate": 12500,
+    "address": "24/1 Vittal Mallya Road, Bengaluru 560001",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "The Park Bangalore",
+    "zone": "INDIRANAGAR",
+    "tier": 3,
+    "rate": 10500,
+    "address": "14/7 Mahatma Gandhi Road, Bengaluru 560042",
+    "site": "https://www.theparkhotels.com"
+   },
+   {
+    "name": "The Chancery Pavilion",
+    "zone": "CENTRAL",
+    "tier": 2,
+    "rate": 7500,
+    "address": "135 Residency Road, Bengaluru 560025",
+    "site": ""
+   },
+   {
+    "name": "Lemon Tree Premier, Ulsoor Lake",
+    "zone": "INDIRANAGAR",
+    "tier": 2,
+    "rate": 7000,
+    "address": "Halasuru, Ulsoor Lake, Bengaluru 560008",
+    "site": "https://www.lemontreehotels.com"
+   },
+   {
+    "name": "Royal Orchid Hotel",
+    "zone": "INDIRANAGAR",
+    "tier": 2,
+    "rate": 7200,
+    "address": "1 Golf Avenue, Adjoining KGA Golf Course, Old Airport Road, Bengaluru 560008",
+    "site": ""
+   },
+   {
+    "name": "Courtyard by Marriott Bengaluru Hebbal",
+    "zone": "MALLESWARAM",
+    "tier": 2,
+    "rate": 7800,
+    "address": "Outer Ring Road, Hebbal, Bengaluru 560024",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "Sheraton Grand Bangalore Hotel at Brigade Gateway",
+    "zone": "MALLESWARAM",
+    "tier": 3,
+    "rate": 11500,
+    "address": "26/1 Dr Rajkumar Road, Malleswaram West, Bengaluru 560055",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "Bengaluru Marriott Hotel Whitefield",
+    "zone": "WHITEFIELD",
+    "tier": 3,
+    "rate": 9800,
+    "address": "Whitefield Main Road, Bengaluru 560066",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "Hotel Ajantha",
+    "zone": "CENTRAL",
+    "tier": 1,
+    "rate": 3900,
+    "address": "22-A Mahatma Gandhi Road, Bengaluru 560001",
+    "site": ""
+   }
+  ]
+ },
+ {
+  "name": "Paris",
+  "aliases": [
+   "paris",
+   "france"
+  ],
+  "country": "France",
+  "intl": true,
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "costIndex": 4.2,
+  "activityIndex": 5.0,
+  "flightReturn": 78000,
+  "visaInsurance": 12500,
+  "zones": [
+   {
+    "id": "EIFFEL",
+    "name": "Eiffel Tower & Trocadéro (7th/15th)",
+    "lat": 48.8584,
+    "lon": 2.2945
+   },
+   {
+    "id": "CENTRE",
+    "name": "Louvre & Les Halles (1st)",
+    "lat": 48.8606,
+    "lon": 2.3376
+   },
+   {
+    "id": "MONTMARTRE",
+    "name": "Montmartre & Pigalle (18th)",
+    "lat": 48.8867,
+    "lon": 2.3431
+   },
+   {
+    "id": "LATIN",
+    "name": "Latin Quarter & Saint-Germain (5th/6th)",
+    "lat": 48.853,
+    "lon": 2.3499
+   },
+   {
+    "id": "CHAMPS",
+    "name": "Champs-Élysées (8th)",
+    "lat": 48.8738,
+    "lon": 2.295
+   },
+   {
+    "id": "MARAIS",
+    "name": "Le Marais (3rd/4th)",
+    "lat": 48.8575,
+    "lon": 2.3622
+   }
+  ],
+  "areas": [
+   {
+    "name": "Eiffel / Trocadéro",
+    "zone": "EIFFEL",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Eiffel Tower",
+     "Trocadéro Gardens",
+     "Seine River Cruise",
+     "Champ de Mars"
+    ]
+   },
+   {
+    "name": "Louvre",
+    "zone": "CENTRE",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Louvre Museum",
+     "Tuileries Garden",
+     "Palais Royal",
+     "Rue de Rivoli"
+    ]
+   },
+   {
+    "name": "Montmartre",
+    "zone": "MONTMARTRE",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Sacré-Cœur",
+     "Montmartre Streets",
+     "Place du Tertre",
+     "Moulin Rouge"
+    ]
+   },
+   {
+    "name": "Notre-Dame",
+    "zone": "LATIN",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Notre-Dame Cathedral",
+     "Île de la Cité",
+     "Sainte-Chapelle",
+     "Latin Quarter"
+    ]
+   },
+   {
+    "name": "Champs-Élysées",
+    "zone": "CHAMPS",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Arc de Triomphe",
+     "Champs-Élysées",
+     "Grand Palais",
+     "Place de la Concorde"
+    ]
+   },
+   {
+    "name": "Marais",
+    "zone": "MARAIS",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Le Marais",
+     "Place des Vosges",
+     "Picasso Museum",
+     "Rue des Rosiers"
+    ]
+   },
+   {
+    "name": "Seine",
+    "zone": "CENTRE",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Pont Neuf",
+     "Pont Alexandre III",
+     "Pont des Arts",
+     "Musée d'Orsay"
+    ]
+   },
+   {
+    "name": "Versailles",
+    "zone": "CENTRE",
+    "category": "History",
+    "exc": 20,
+    "places": [
+     "Palace of Versailles",
+     "Hall of Mirrors",
+     "Versailles Gardens",
+     "Grand Trianon"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "LATIN",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Marché des Enfants Rouges",
+     "Latin Quarter Food Walk",
+     "Café de Flore",
+     "Poilâne Bakery"
+    ]
+   },
+   {
+    "name": "Relaxed",
+    "zone": "MARAIS",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Luxembourg Gardens",
+     "Canal Saint-Martin",
+     "Bois de Boulogne",
+     "Parc des Buttes-Chaumont"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "ibis Paris Tour Eiffel Cambronne 15ème",
+    "zone": "EIFFEL",
+    "tier": 1,
+    "rate": 13000,
+    "address": "2 Rue Cambronne, 75015 Paris, France",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Mercure Paris Centre Tour Eiffel",
+    "zone": "EIFFEL",
+    "tier": 2,
+    "rate": 18500,
+    "address": "20 Rue Jean Rey, 75015 Paris, France",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Pullman Paris Tour Eiffel",
+    "zone": "EIFFEL",
+    "tier": 3,
+    "rate": 30000,
+    "address": "18 Avenue de Suffren, 75015 Paris, France",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Hôtel Le Walt",
+    "zone": "EIFFEL",
+    "tier": 2,
+    "rate": 24000,
+    "address": "37 Avenue de la Motte-Picquet, 75007 Paris, France",
+    "site": ""
+   },
+   {
+    "name": "Shangri-La Paris",
+    "zone": "CHAMPS",
+    "tier": 3,
+    "rate": 90000,
+    "address": "10 Avenue d'Iéna, 75116 Paris, France",
+    "site": "https://www.shangri-la.com"
+   },
+   {
+    "name": "Novotel Paris Les Halles",
+    "zone": "CENTRE",
+    "tier": 2,
+    "rate": 21000,
+    "address": "8 Place Marguerite de Navarre, 75001 Paris, France",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Citadines Les Halles Paris",
+    "zone": "CENTRE",
+    "tier": 1,
+    "rate": 15000,
+    "address": "4 Rue des Innocents, 75001 Paris, France",
+    "site": ""
+   },
+   {
+    "name": "Le Meurice",
+    "zone": "CENTRE",
+    "tier": 3,
+    "rate": 90000,
+    "address": "228 Rue de Rivoli, 75001 Paris, France",
+    "site": "https://www.dorchestercollection.com"
+   },
+   {
+    "name": "Hôtel du Louvre",
+    "zone": "CENTRE",
+    "tier": 3,
+    "rate": 32000,
+    "address": "Place André Malraux, 75001 Paris, France",
+    "site": "https://www.hyatt.com"
+   },
+   {
+    "name": "Hôtel Le Pigalle",
+    "zone": "MONTMARTRE",
+    "tier": 2,
+    "rate": 19000,
+    "address": "9 Rue Frochot, 75009 Paris, France",
+    "site": ""
+   },
+   {
+    "name": "Hôtel Particulier Montmartre",
+    "zone": "MONTMARTRE",
+    "tier": 3,
+    "rate": 50000,
+    "address": "23 Avenue Junot, 75018 Paris, France",
+    "site": ""
+   },
+   {
+    "name": "Hôtel Lutetia",
+    "zone": "LATIN",
+    "tier": 3,
+    "rate": 75000,
+    "address": "45 Boulevard Raspail, 75006 Paris, France",
+    "site": ""
+   },
+   {
+    "name": "Hôtel Monge",
+    "zone": "LATIN",
+    "tier": 2,
+    "rate": 23000,
+    "address": "55 Rue Monge, 75005 Paris, France",
+    "site": ""
+   },
+   {
+    "name": "Hôtel Pavillon de la Reine",
+    "zone": "MARAIS",
+    "tier": 3,
+    "rate": 48000,
+    "address": "28 Place des Vosges, 75003 Paris, France",
+    "site": ""
+   },
+   {
+    "name": "Generator Paris",
+    "zone": "MARAIS",
+    "tier": 1,
+    "rate": 7500,
+    "address": "9-11 Place du Colonel Fabien, 75010 Paris, France",
+    "site": "https://staygenerator.com"
+   },
+   {
+    "name": "ibis Paris Gare du Nord TGV",
+    "zone": "MARAIS",
+    "tier": 1,
+    "rate": 12500,
+    "address": "20 Rue du Faubourg Saint-Denis, 75010 Paris, France",
+    "site": "https://all.accor.com"
+   }
+  ]
+ },
+ {
+  "name": "London",
+  "aliases": [
+   "london",
+   "uk",
+   "england"
+  ],
+  "country": "United Kingdom",
+  "intl": true,
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "costIndex": 4.3,
+  "activityIndex": 3.6,
+  "flightReturn": 72000,
+  "visaInsurance": 16500,
+  "zones": [
+   {
+    "id": "WESTMINSTER",
+    "name": "Westminster & Victoria",
+    "lat": 51.5007,
+    "lon": -0.1246
+   },
+   {
+    "id": "CITY",
+    "name": "The City & Tower Hill",
+    "lat": 51.5133,
+    "lon": -0.089
+   },
+   {
+    "id": "SOUTHBANK",
+    "name": "South Bank & Waterloo",
+    "lat": 51.503,
+    "lon": -0.111
+   },
+   {
+    "id": "KENSINGTON",
+    "name": "Kensington & Hyde Park",
+    "lat": 51.499,
+    "lon": -0.1749
+   },
+   {
+    "id": "CAMDEN",
+    "name": "King's Cross & Camden",
+    "lat": 51.5392,
+    "lon": -0.1426
+   },
+   {
+    "id": "WESTEND",
+    "name": "West End & Covent Garden",
+    "lat": 51.5101,
+    "lon": -0.134
+   },
+   {
+    "id": "BLOOMSBURY",
+    "name": "Bloomsbury",
+    "lat": 51.5194,
+    "lon": -0.127
+   }
+  ],
+  "areas": [
+   {
+    "name": "Westminster",
+    "zone": "WESTMINSTER",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Big Ben",
+     "Westminster Abbey",
+     "Houses of Parliament",
+     "London Eye"
+    ]
+   },
+   {
+    "name": "Tower",
+    "zone": "CITY",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Tower of London",
+     "Tower Bridge",
+     "St Katharine Docks",
+     "HMS Belfast"
+    ]
+   },
+   {
+    "name": "Royal London",
+    "zone": "WESTMINSTER",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Buckingham Palace",
+     "St James's Park",
+     "The Mall",
+     "Kensington Palace"
+    ]
+   },
+   {
+    "name": "Museums",
+    "zone": "KENSINGTON",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "British Museum",
+     "Natural History Museum",
+     "Victoria and Albert Museum",
+     "Science Museum"
+    ]
+   },
+   {
+    "name": "City",
+    "zone": "CITY",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "St Paul's Cathedral",
+     "Sky Garden",
+     "Borough Market",
+     "Millennium Bridge"
+    ]
+   },
+   {
+    "name": "South Bank",
+    "zone": "SOUTHBANK",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Tate Modern",
+     "Shakespeare's Globe",
+     "South Bank Walk",
+     "Hay's Galleria"
+    ]
+   },
+   {
+    "name": "Green London",
+    "zone": "KENSINGTON",
+    "category": "Nature",
+    "exc": 8,
+    "places": [
+     "Hyde Park",
+     "Regent's Park",
+     "Primrose Hill",
+     "Kew Gardens"
+    ]
+   },
+   {
+    "name": "Camden",
+    "zone": "CAMDEN",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Camden Market",
+     "Regent's Canal",
+     "Camden Lock",
+     "Abbey Road"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "SOUTHBANK",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Borough Market Food Trail",
+     "Soho Food Walk",
+     "Covent Garden Dining",
+     "Brick Lane Food Walk"
+    ]
+   },
+   {
+    "name": "Day Trip",
+    "zone": "WESTMINSTER",
+    "category": "History",
+    "exc": 30,
+    "places": [
+     "Windsor Castle",
+     "Stonehenge Day Tour",
+     "Greenwich",
+     "Hampton Court Palace"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Premier Inn London County Hall",
+    "zone": "SOUTHBANK",
+    "tier": 1,
+    "rate": 14500,
+    "address": "Belvedere Road, London SE1 7PB, UK",
+    "site": "https://www.premierinn.com"
+   },
+   {
+    "name": "Novotel London Waterloo",
+    "zone": "SOUTHBANK",
+    "tier": 2,
+    "rate": 18000,
+    "address": "113 Lambeth Road, London SE1 7LS, UK",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Park Plaza Westminster Bridge London",
+    "zone": "WESTMINSTER",
+    "tier": 2,
+    "rate": 23000,
+    "address": "200 Westminster Bridge Road, London SE1 7UT, UK",
+    "site": ""
+   },
+   {
+    "name": "ibis London City - Shoreditch",
+    "zone": "CITY",
+    "tier": 1,
+    "rate": 13500,
+    "address": "5 Commercial Street, London E1 6BF, UK",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "citizenM Tower of London",
+    "zone": "CITY",
+    "tier": 2,
+    "rate": 18500,
+    "address": "40 Trinity Square, London EC3N 4DJ, UK",
+    "site": "https://www.citizenm.com"
+   },
+   {
+    "name": "Strand Palace Hotel",
+    "zone": "WESTEND",
+    "tier": 2,
+    "rate": 21000,
+    "address": "372 Strand, London WC2R 0JJ, UK",
+    "site": ""
+   },
+   {
+    "name": "The Savoy",
+    "zone": "WESTEND",
+    "tier": 3,
+    "rate": 95000,
+    "address": "Strand, London WC2R 0EZ, UK",
+    "site": "https://www.thesavoylondon.com"
+   },
+   {
+    "name": "The Ritz London",
+    "zone": "WESTMINSTER",
+    "tier": 3,
+    "rate": 85000,
+    "address": "150 Piccadilly, London W1J 9BR, UK",
+    "site": "https://www.theritzlondon.com"
+   },
+   {
+    "name": "Corus Hotel Hyde Park",
+    "zone": "KENSINGTON",
+    "tier": 1,
+    "rate": 16500,
+    "address": "1 Lancaster Gate, London W2 3LG, UK",
+    "site": ""
+   },
+   {
+    "name": "Hilton London Kensington",
+    "zone": "KENSINGTON",
+    "tier": 2,
+    "rate": 22000,
+    "address": "179-199 Holland Park Avenue, London W11 4UL, UK",
+    "site": "https://www.hilton.com"
+   },
+   {
+    "name": "Premier Inn London King's Cross",
+    "zone": "CAMDEN",
+    "tier": 1,
+    "rate": 13500,
+    "address": "26-30 Euston Road, London NW1 2SD, UK",
+    "site": "https://www.premierinn.com"
+   },
+   {
+    "name": "The Hoxton, Holborn",
+    "zone": "BLOOMSBURY",
+    "tier": 2,
+    "rate": 21000,
+    "address": "199-206 High Holborn, London WC1V 7BD, UK",
+    "site": ""
+   },
+   {
+    "name": "Generator London",
+    "zone": "BLOOMSBURY",
+    "tier": 1,
+    "rate": 8500,
+    "address": "37 Tavistock Place, London WC1H 9SE, UK",
+    "site": "https://staygenerator.com"
+   },
+   {
+    "name": "The Langham, London",
+    "zone": "WESTEND",
+    "tier": 3,
+    "rate": 58000,
+    "address": "1C Portland Place, Regent Street, London W1B 1JA, UK",
+    "site": "https://www.langhamhotels.com"
+   }
+  ]
+ },
+ {
+  "name": "Dubai",
+  "aliases": [
+   "dubai",
+   "uae",
+   "abu dhabi"
+  ],
+  "country": "United Arab Emirates",
+  "intl": true,
+  "lat": 25.2048,
+  "lon": 55.2708,
+  "costIndex": 2.6,
+  "activityIndex": 3.6,
+  "flightReturn": 24000,
+  "visaInsurance": 9000,
+  "zones": [
+   {
+    "id": "DOWNTOWN",
+    "name": "Downtown Dubai & Business Bay",
+    "lat": 25.1972,
+    "lon": 55.2744
+   },
+   {
+    "id": "OLD",
+    "name": "Deira & Bur Dubai (Old Dubai)",
+    "lat": 25.265,
+    "lon": 55.3
+   },
+   {
+    "id": "MARINA",
+    "name": "Dubai Marina & JBR",
+    "lat": 25.0805,
+    "lon": 55.1403
+   },
+   {
+    "id": "PALM",
+    "name": "Palm Jumeirah",
+    "lat": 25.1124,
+    "lon": 55.139
+   },
+   {
+    "id": "JUMEIRAH",
+    "name": "Jumeirah & Al Barsha",
+    "lat": 25.19,
+    "lon": 55.24
+   }
+  ],
+  "areas": [
+   {
+    "name": "Downtown",
+    "zone": "DOWNTOWN",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Burj Khalifa",
+     "Dubai Mall",
+     "Dubai Fountain",
+     "Dubai Opera"
+    ]
+   },
+   {
+    "name": "Old Dubai",
+    "zone": "OLD",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Al Fahidi Historical Neighbourhood",
+     "Dubai Creek",
+     "Al Seef",
+     "Dubai Gold Souk"
+    ]
+   },
+   {
+    "name": "Palm Jumeirah",
+    "zone": "PALM",
+    "category": "Adventure",
+    "exc": 0,
+    "places": [
+     "Palm Jumeirah",
+     "The View at The Palm",
+     "Atlantis Aquaventure",
+     "Palm West Beach"
+    ]
+   },
+   {
+    "name": "Marina",
+    "zone": "MARINA",
+    "category": "Beach",
+    "exc": 0,
+    "places": [
+     "Dubai Marina Walk",
+     "Ain Dubai",
+     "JBR Beach",
+     "Bluewaters Island"
+    ]
+   },
+   {
+    "name": "Museum District",
+    "zone": "DOWNTOWN",
+    "category": "Culture",
+    "exc": 12,
+    "places": [
+     "Museum of the Future",
+     "Etihad Museum",
+     "Jameel Arts Centre",
+     "Alserkal Avenue"
+    ]
+   },
+   {
+    "name": "Desert",
+    "zone": "DOWNTOWN",
+    "category": "Adventure",
+    "exc": 50,
+    "places": [
+     "Dubai Desert Safari",
+     "Bedouin Camp Dinner",
+     "Dune Bashing",
+     "Desert Sunset"
+    ]
+   },
+   {
+    "name": "Beach",
+    "zone": "JUMEIRAH",
+    "category": "Beach",
+    "exc": 0,
+    "places": [
+     "Kite Beach",
+     "La Mer",
+     "Jumeirah Beach",
+     "Sunset Beach Umm Suqeim"
+    ]
+   },
+   {
+    "name": "Shopping",
+    "zone": "JUMEIRAH",
+    "category": "Shopping",
+    "exc": 5,
+    "places": [
+     "Mall of the Emirates",
+     "Souk Madinat Jumeirah",
+     "City Walk",
+     "Ibn Battuta Mall"
+    ]
+   },
+   {
+    "name": "Nature",
+    "zone": "JUMEIRAH",
+    "category": "Nature",
+    "exc": 12,
+    "places": [
+     "Dubai Miracle Garden",
+     "Dubai Butterfly Garden",
+     "Ras Al Khor Wildlife Sanctuary",
+     "Dubai Creek Harbour"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "OLD",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Old Dubai Food Walk",
+     "Deira Spice Souk",
+     "Arabian Tea House Al Fahidi",
+     "Pier 7 Dubai Marina"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Rove Downtown",
+    "zone": "DOWNTOWN",
+    "tier": 1,
+    "rate": 9500,
+    "address": "Al Mustaqbal Street, Downtown Dubai, UAE",
+    "site": "https://www.rovehotels.com"
+   },
+   {
+    "name": "Rove Dubai Marina",
+    "zone": "MARINA",
+    "tier": 1,
+    "rate": 9500,
+    "address": "Marina Plaza, Dubai Marina, UAE",
+    "site": "https://www.rovehotels.com"
+   },
+   {
+    "name": "Citymax Hotel Bur Dubai",
+    "zone": "OLD",
+    "tier": 1,
+    "rate": 6500,
+    "address": "Khalid Bin Al Waleed Road, Bur Dubai, UAE",
+    "site": ""
+   },
+   {
+    "name": "ibis Al Barsha",
+    "zone": "JUMEIRAH",
+    "tier": 1,
+    "rate": 8000,
+    "address": "Sheikh Zayed Road, Al Barsha, Dubai, UAE",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Novotel World Trade Centre Dubai",
+    "zone": "DOWNTOWN",
+    "tier": 2,
+    "rate": 12500,
+    "address": "Sheikh Zayed Road, Dubai, UAE",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "zone": "OLD",
+    "tier": 2,
+    "rate": 13500,
+    "address": "Baniyas Road, Deira, Dubai, UAE",
+    "site": "https://www.radissonhotels.com"
+   },
+   {
+    "name": "Hyatt Regency Dubai",
+    "zone": "OLD",
+    "tier": 2,
+    "rate": 14500,
+    "address": "Al Khaleej Road, Deira, Dubai, UAE",
+    "site": "https://www.hyatt.com"
+   },
+   {
+    "name": "Hilton Dubai Jumeirah",
+    "zone": "MARINA",
+    "tier": 2,
+    "rate": 18000,
+    "address": "The Walk, Jumeirah Beach Residence, Dubai, UAE",
+    "site": "https://www.hilton.com"
+   },
+   {
+    "name": "Grosvenor House Dubai",
+    "zone": "MARINA",
+    "tier": 3,
+    "rate": 27000,
+    "address": "Dubai Marina, UAE",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "Atlantis, The Palm",
+    "zone": "PALM",
+    "tier": 3,
+    "rate": 48000,
+    "address": "Crescent Road, Palm Jumeirah, Dubai, UAE",
+    "site": "https://www.atlantis.com"
+   },
+   {
+    "name": "Jumeirah Beach Hotel",
+    "zone": "JUMEIRAH",
+    "tier": 3,
+    "rate": 37000,
+    "address": "Jumeirah Road, Umm Suqeim, Dubai, UAE",
+    "site": "https://www.jumeirah.com"
+   },
+   {
+    "name": "Address Downtown",
+    "zone": "DOWNTOWN",
+    "tier": 3,
+    "rate": 42000,
+    "address": "Mohammed Bin Rashid Boulevard, Downtown Dubai, UAE",
+    "site": "https://www.addresshotels.com"
+   },
+   {
+    "name": "Armani Hotel Dubai",
+    "zone": "DOWNTOWN",
+    "tier": 3,
+    "rate": 60000,
+    "address": "Burj Khalifa, Downtown Dubai, UAE",
+    "site": "https://armanihotels.com"
+   }
+  ]
+ },
+ {
+  "name": "Singapore",
+  "aliases": [
+   "singapore"
+  ],
+  "country": "Singapore",
+  "intl": true,
+  "lat": 1.3521,
+  "lon": 103.8198,
+  "costIndex": 3.2,
+  "activityIndex": 3.8,
+  "flightReturn": 34000,
+  "visaInsurance": 4500,
+  "zones": [
+   {
+    "id": "MARINA",
+    "name": "Marina Bay",
+    "lat": 1.283,
+    "lon": 103.86
+   },
+   {
+    "id": "SENTOSA",
+    "name": "Sentosa",
+    "lat": 1.2494,
+    "lon": 103.8303
+   },
+   {
+    "id": "CHINATOWN",
+    "name": "Chinatown & Tanjong Pagar",
+    "lat": 1.2833,
+    "lon": 103.8443
+   },
+   {
+    "id": "LITTLEINDIA",
+    "name": "Little India & Farrer Park",
+    "lat": 1.3066,
+    "lon": 103.8518
+   },
+   {
+    "id": "KAMPONG",
+    "name": "Bugis & Kampong Glam",
+    "lat": 1.3017,
+    "lon": 103.8591
+   },
+   {
+    "id": "ORCHARD",
+    "name": "Orchard Road",
+    "lat": 1.3048,
+    "lon": 103.8318
+   }
+  ],
+  "areas": [
+   {
+    "name": "Marina Bay",
+    "zone": "MARINA",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Gardens by the Bay",
+     "Marina Bay Sands",
+     "Merlion Park",
+     "ArtScience Museum"
+    ]
+   },
+   {
+    "name": "Sentosa",
+    "zone": "SENTOSA",
+    "category": "Adventure",
+    "exc": 0,
+    "places": [
+     "Sentosa Island",
+     "Universal Studios Singapore",
+     "S.E.A. Aquarium",
+     "Palawan Beach"
+    ]
+   },
+   {
+    "name": "Heritage",
+    "zone": "CHINATOWN",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Chinatown",
+     "Sri Mariamman Temple",
+     "Buddha Tooth Relic Temple",
+     "Maxwell Food Centre"
+    ]
+   },
+   {
+    "name": "Little India",
+    "zone": "LITTLEINDIA",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Little India",
+     "Sri Veeramakaliamman Temple",
+     "Tekka Centre",
+     "Indian Heritage Centre"
+    ]
+   },
+   {
+    "name": "Kampong Glam",
+    "zone": "KAMPONG",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Sultan Mosque",
+     "Haji Lane",
+     "Malay Heritage Centre",
+     "Arab Street"
+    ]
+   },
+   {
+    "name": "Wildlife",
+    "zone": "ORCHARD",
+    "category": "Wildlife",
+    "exc": 18,
+    "places": [
+     "Singapore Zoo",
+     "Night Safari",
+     "River Wonders",
+     "Bird Paradise"
+    ]
+   },
+   {
+    "name": "Nature",
+    "zone": "ORCHARD",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Singapore Botanic Gardens",
+     "MacRitchie Reservoir",
+     "Southern Ridges",
+     "East Coast Park"
+    ]
+   },
+   {
+    "name": "Shopping",
+    "zone": "ORCHARD",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Orchard Road",
+     "ION Orchard",
+     "Bugis Street",
+     "VivoCity"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "CHINATOWN",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Hawker Centre Trail",
+     "Lau Pa Sat",
+     "Newton Food Centre",
+     "Chinatown Food Walk"
+    ]
+   },
+   {
+    "name": "Modern Singapore",
+    "zone": "MARINA",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Clarke Quay",
+     "Singapore River Cruise",
+     "Helix Bridge",
+     "Esplanade"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Hotel Boss",
+    "zone": "KAMPONG",
+    "tier": 1,
+    "rate": 11500,
+    "address": "500 Jalan Sultan, Singapore 199020",
+    "site": ""
+   },
+   {
+    "name": "ibis Singapore on Bencoolen",
+    "zone": "KAMPONG",
+    "tier": 1,
+    "rate": 10500,
+    "address": "170 Bencoolen Street, Singapore 189657",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "The Pod @ Beach Road",
+    "zone": "KAMPONG",
+    "tier": 1,
+    "rate": 5500,
+    "address": "289 Beach Road, Singapore 199552",
+    "site": ""
+   },
+   {
+    "name": "Village Hotel Albert Court",
+    "zone": "LITTLEINDIA",
+    "tier": 2,
+    "rate": 15500,
+    "address": "180 Albert Street, Singapore 189971",
+    "site": ""
+   },
+   {
+    "name": "Capri by Fraser, China Square",
+    "zone": "CHINATOWN",
+    "tier": 2,
+    "rate": 14500,
+    "address": "1 Cross Street, Singapore 048420",
+    "site": "https://www.frasershospitality.com"
+   },
+   {
+    "name": "YOTEL Singapore Orchard Road",
+    "zone": "ORCHARD",
+    "tier": 2,
+    "rate": 15000,
+    "address": "366 Orchard Road, Singapore 238904",
+    "site": "https://www.yotel.com"
+   },
+   {
+    "name": "Mandarin Orchard Singapore",
+    "zone": "ORCHARD",
+    "tier": 3,
+    "rate": 29000,
+    "address": "333 Orchard Road, Singapore 238867",
+    "site": "https://www.mandarinoriental.com"
+   },
+   {
+    "name": "PARKROYAL COLLECTION Marina Bay",
+    "zone": "MARINA",
+    "tier": 3,
+    "rate": 26000,
+    "address": "6 Raffles Boulevard, Marina Square, Singapore 039594",
+    "site": ""
+   },
+   {
+    "name": "Swissôtel The Stamford",
+    "zone": "MARINA",
+    "tier": 3,
+    "rate": 25000,
+    "address": "2 Stamford Road, Singapore 178882",
+    "site": "https://www.swissotel.com"
+   },
+   {
+    "name": "Marina Bay Sands",
+    "zone": "MARINA",
+    "tier": 3,
+    "rate": 52000,
+    "address": "10 Bayfront Avenue, Singapore 018956",
+    "site": "https://www.marinabaysands.com"
+   },
+   {
+    "name": "Raffles Singapore",
+    "zone": "MARINA",
+    "tier": 3,
+    "rate": 68000,
+    "address": "1 Beach Road, Singapore 189673",
+    "site": "https://www.raffles.com"
+   },
+   {
+    "name": "Village Hotel Sentosa",
+    "zone": "SENTOSA",
+    "tier": 2,
+    "rate": 19000,
+    "address": "10 Artillery Avenue, Sentosa, Singapore 099951",
+    "site": ""
+   },
+   {
+    "name": "Hotel Michael, Resorts World Sentosa",
+    "zone": "SENTOSA",
+    "tier": 3,
+    "rate": 27000,
+    "address": "8 Sentosa Gateway, Sentosa, Singapore 098269",
+    "site": ""
+   }
+  ]
+ },
+ {
+  "name": "Bangkok",
+  "aliases": [
+   "bangkok",
+   "thailand"
+  ],
+  "country": "Thailand",
+  "intl": true,
+  "lat": 13.7563,
+  "lon": 100.5018,
+  "costIndex": 1.6,
+  "activityIndex": 2.0,
+  "flightReturn": 26000,
+  "visaInsurance": 2500,
+  "zones": [
+   {
+    "id": "OLD",
+    "name": "Old City & Khao San (Rattanakosin)",
+    "lat": 13.756,
+    "lon": 100.495
+   },
+   {
+    "id": "RIVERSIDE",
+    "name": "Chao Phraya Riverside",
+    "lat": 13.72,
+    "lon": 100.513
+   },
+   {
+    "id": "SIAM",
+    "name": "Siam, Pratunam & Ratchaprasong",
+    "lat": 13.7455,
+    "lon": 100.534
+   },
+   {
+    "id": "SUKHUMVIT",
+    "name": "Sukhumvit",
+    "lat": 13.738,
+    "lon": 100.56
+   },
+   {
+    "id": "CHINATOWN",
+    "name": "Chinatown (Yaowarat)",
+    "lat": 13.741,
+    "lon": 100.51
+   }
+  ],
+  "areas": [
+   {
+    "name": "Old City",
+    "zone": "OLD",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Grand Palace",
+     "Wat Pho",
+     "Wat Arun",
+     "Sanam Luang"
+    ]
+   },
+   {
+    "name": "Rattanakosin",
+    "zone": "OLD",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Giant Swing",
+     "Loha Prasat",
+     "Wat Saket",
+     "Democracy Monument"
+    ]
+   },
+   {
+    "name": "Riverside",
+    "zone": "RIVERSIDE",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Chao Phraya River Cruise",
+     "ICONSIAM",
+     "Asiatique",
+     "Pak Khlong Talat"
+    ]
+   },
+   {
+    "name": "Chinatown",
+    "zone": "CHINATOWN",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Yaowarat Road",
+     "Wat Traimit",
+     "Chinatown Food Walk",
+     "Odeon Circle"
+    ]
+   },
+   {
+    "name": "Markets",
+    "zone": "SUKHUMVIT",
+    "category": "Shopping",
+    "exc": 10,
+    "places": [
+     "Chatuchak Weekend Market",
+     "Talad Rot Fai",
+     "Pratunam Market",
+     "Sampeng Market"
+    ]
+   },
+   {
+    "name": "Modern Bangkok",
+    "zone": "SIAM",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Siam Paragon",
+     "MBK Center",
+     "CentralWorld",
+     "Erawan Shrine"
+    ]
+   },
+   {
+    "name": "Parks",
+    "zone": "SIAM",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Lumphini Park",
+     "Benjakitti Park",
+     "Suan Rot Fai Park",
+     "Queen Sirikit Park"
+    ]
+   },
+   {
+    "name": "Temples",
+    "zone": "OLD",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Wat Benchamabophit",
+     "Wat Ratchanatdaram",
+     "Wat Suthat",
+     "Wat Intharawihan"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "SUKHUMVIT",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Thai Street Food Trail",
+     "Boat Noodle Walk",
+     "Khao San Food Walk",
+     "Sukhumvit Food Trail"
+    ]
+   },
+   {
+    "name": "Day Trip",
+    "zone": "OLD",
+    "category": "History",
+    "exc": 80,
+    "places": [
+     "Ayutthaya Historical Park",
+     "Damnoen Saduak Floating Market",
+     "Maeklong Railway Market",
+     "Ancient City"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Lub d Bangkok Siam",
+    "zone": "SIAM",
+    "tier": 1,
+    "rate": 2800,
+    "address": "925/9 Rama 1 Road, Wang Mai, Pathum Wan, Bangkok, Thailand",
+    "site": ""
+   },
+   {
+    "name": "Ibis Styles Bangkok Khaosan Viengtai",
+    "zone": "OLD",
+    "tier": 1,
+    "rate": 4800,
+    "address": "42 Rambuttri Road, Phra Nakhon, Bangkok, Thailand",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Royal Rattanakosin Hotel",
+    "zone": "OLD",
+    "tier": 1,
+    "rate": 6500,
+    "address": "2 Ratchadamnoen Klang Avenue, Phra Nakhon, Bangkok, Thailand",
+    "site": ""
+   },
+   {
+    "name": "Siam@Siam Design Hotel Bangkok",
+    "zone": "SIAM",
+    "tier": 2,
+    "rate": 7000,
+    "address": "865 Rama 1 Road, Pathum Wan, Bangkok, Thailand",
+    "site": ""
+   },
+   {
+    "name": "Novotel Bangkok Platinum Pratunam",
+    "zone": "SIAM",
+    "tier": 2,
+    "rate": 7800,
+    "address": "220 Phetchaburi Road, Ratchathewi, Bangkok, Thailand",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Centara Grand at CentralWorld",
+    "zone": "SIAM",
+    "tier": 3,
+    "rate": 13500,
+    "address": "999/99 Rama 1 Road, Pathum Wan, Bangkok, Thailand",
+    "site": "https://www.centarahotelsresorts.com"
+   },
+   {
+    "name": "Novotel Bangkok Sukhumvit 20",
+    "zone": "SUKHUMVIT",
+    "tier": 2,
+    "rate": 7500,
+    "address": "19/9 Sukhumvit Soi 20, Khlong Toei, Bangkok, Thailand",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Holiday Inn Bangkok Sukhumvit",
+    "zone": "SUKHUMVIT",
+    "tier": 2,
+    "rate": 8000,
+    "address": "971 Sukhumvit Road, Khlong Toei, Bangkok, Thailand",
+    "site": "https://www.ihg.com"
+   },
+   {
+    "name": "Grand China Hotel",
+    "zone": "CHINATOWN",
+    "tier": 2,
+    "rate": 5800,
+    "address": "215 Yaowarat Road, Samphanthawong, Bangkok, Thailand",
+    "site": ""
+   },
+   {
+    "name": "Shanghai Mansion Bangkok",
+    "zone": "CHINATOWN",
+    "tier": 2,
+    "rate": 6500,
+    "address": "479-481 Yaowarat Road, Bangkok, Thailand",
+    "site": ""
+   },
+   {
+    "name": "Anantara Riverside Bangkok Resort",
+    "zone": "RIVERSIDE",
+    "tier": 3,
+    "rate": 12000,
+    "address": "257/1-3 Charoennakorn Road, Thonburi, Bangkok, Thailand",
+    "site": "https://www.anantara.com"
+   },
+   {
+    "name": "Shangri-La Bangkok",
+    "zone": "RIVERSIDE",
+    "tier": 3,
+    "rate": 19000,
+    "address": "89 Soi Wat Suan Plu, Charoen Krung Road, Bangkok, Thailand",
+    "site": "https://www.shangri-la.com"
+   },
+   {
+    "name": "Mandarin Oriental, Bangkok",
+    "zone": "RIVERSIDE",
+    "tier": 3,
+    "rate": 38000,
+    "address": "48 Oriental Avenue, Bangkok, Thailand",
+    "site": "https://www.mandarinoriental.com"
+   },
+   {
+    "name": "The Peninsula Bangkok",
+    "zone": "RIVERSIDE",
+    "tier": 3,
+    "rate": 32000,
+    "address": "333 Charoennakorn Road, Klongsan, Bangkok, Thailand",
+    "site": "https://www.peninsula.com"
+   }
+  ]
+ },
+ {
+  "name": "Bali",
+  "aliases": [
+   "bali",
+   "ubud",
+   "indonesia",
+   "seminyak",
+   "kuta"
+  ],
+  "country": "Indonesia",
+  "intl": true,
+  "lat": -8.4095,
+  "lon": 115.1889,
+  "costIndex": 1.7,
+  "activityIndex": 1.8,
+  "flightReturn": 42000,
+  "visaInsurance": 4500,
+  "zones": [
+   {
+    "id": "UBUD",
+    "name": "Ubud",
+    "lat": -8.5069,
+    "lon": 115.2625
+   },
+   {
+    "id": "SEMINYAK",
+    "name": "Seminyak & Kerobokan",
+    "lat": -8.6913,
+    "lon": 115.1683
+   },
+   {
+    "id": "KUTA",
+    "name": "Kuta & Legian",
+    "lat": -8.7184,
+    "lon": 115.1686
+   },
+   {
+    "id": "CANGGU",
+    "name": "Canggu",
+    "lat": -8.6478,
+    "lon": 115.1385
+   },
+   {
+    "id": "ULUWATU",
+    "name": "Uluwatu & Jimbaran",
+    "lat": -8.8291,
+    "lon": 115.0849
+   },
+   {
+    "id": "NUSADUA",
+    "name": "Nusa Dua & Benoa",
+    "lat": -8.8008,
+    "lon": 115.2327
+   }
+  ],
+  "areas": [
+   {
+    "name": "Ubud",
+    "zone": "UBUD",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Ubud Monkey Forest",
+     "Ubud Palace",
+     "Saraswati Temple",
+     "Ubud Art Market"
+    ]
+   },
+   {
+    "name": "Rice Terraces",
+    "zone": "UBUD",
+    "category": "Nature",
+    "exc": 12,
+    "places": [
+     "Tegallalang Rice Terrace",
+     "Campuhan Ridge Walk",
+     "Kanto Lampo Waterfall",
+     "Tibumana Waterfall"
+    ]
+   },
+   {
+    "name": "South Bali",
+    "zone": "SEMINYAK",
+    "category": "Beach",
+    "exc": 0,
+    "places": [
+     "Kuta Beach",
+     "Seminyak Beach",
+     "Legian Beach",
+     "Double Six Beach"
+    ]
+   },
+   {
+    "name": "Canggu",
+    "zone": "CANGGU",
+    "category": "Beach",
+    "exc": 0,
+    "places": [
+     "Canggu Beach",
+     "Batu Bolong",
+     "Berawa Beach",
+     "Tanah Lot"
+    ]
+   },
+   {
+    "name": "Uluwatu",
+    "zone": "ULUWATU",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Uluwatu Temple",
+     "Padang Padang Beach",
+     "Suluban Beach",
+     "Kecak Fire Dance"
+    ]
+   },
+   {
+    "name": "Nusa Dua",
+    "zone": "NUSADUA",
+    "category": "Beach",
+    "exc": 0,
+    "places": [
+     "Nusa Dua Beach",
+     "Waterblow",
+     "Geger Beach",
+     "Devdan Show"
+    ]
+   },
+   {
+    "name": "Mount Batur",
+    "zone": "UBUD",
+    "category": "Adventure",
+    "exc": 35,
+    "places": [
+     "Mount Batur Sunrise",
+     "Batur Lake",
+     "Toya Devasya",
+     "Kintamani Viewpoint"
+    ]
+   },
+   {
+    "name": "East Bali",
+    "zone": "UBUD",
+    "category": "Culture",
+    "exc": 55,
+    "places": [
+     "Tirta Gangga",
+     "Lempuyang Temple",
+     "Taman Ujung",
+     "Virgin Beach"
+    ]
+   },
+   {
+    "name": "Waterfalls",
+    "zone": "UBUD",
+    "category": "Nature",
+    "exc": 70,
+    "places": [
+     "Sekumpul Waterfall",
+     "Gitgit Waterfall",
+     "Aling-Aling Waterfall",
+     "Banyumala Twin Waterfalls"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "UBUD",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Balinese Cooking Class",
+     "Ubud Food Walk",
+     "Gianyar Night Market",
+     "Warung Babi Guling Ibu Oka"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Ubud Village Hotel",
+    "zone": "UBUD",
+    "tier": 1,
+    "rate": 5500,
+    "address": "Jl. Monkey Forest, Ubud, Bali, Indonesia",
+    "site": ""
+   },
+   {
+    "name": "Alaya Resort Ubud",
+    "zone": "UBUD",
+    "tier": 2,
+    "rate": 8800,
+    "address": "Jl. Hanoman, Ubud, Bali, Indonesia",
+    "site": ""
+   },
+   {
+    "name": "Bisma Eight",
+    "zone": "UBUD",
+    "tier": 2,
+    "rate": 9800,
+    "address": "Jl. Bisma, Ubud, Bali, Indonesia",
+    "site": ""
+   },
+   {
+    "name": "Padma Resort Ubud",
+    "zone": "UBUD",
+    "tier": 3,
+    "rate": 16000,
+    "address": "Banjar Carik, Payangan, Ubud, Bali, Indonesia",
+    "site": "https://www.padmahotels.com"
+   },
+   {
+    "name": "Komaneka at Bisma",
+    "zone": "UBUD",
+    "tier": 3,
+    "rate": 15000,
+    "address": "Jl. Bisma, Ubud, Bali, Indonesia",
+    "site": "https://www.komaneka.com"
+   },
+   {
+    "name": "Kuta Paradiso Hotel",
+    "zone": "KUTA",
+    "tier": 1,
+    "rate": 5800,
+    "address": "Jl. Kartika Plaza, Kuta, Bali, Indonesia",
+    "site": ""
+   },
+   {
+    "name": "The Anvaya Beach Resort Bali",
+    "zone": "KUTA",
+    "tier": 2,
+    "rate": 9500,
+    "address": "Jl. Kartika Plaza, Kuta, Bali, Indonesia",
+    "site": ""
+   },
+   {
+    "name": "Hard Rock Hotel Bali",
+    "zone": "KUTA",
+    "tier": 2,
+    "rate": 10500,
+    "address": "Jl. Pantai Kuta, Kuta, Bali, Indonesia",
+    "site": "https://www.hardrockhotels.com"
+   },
+   {
+    "name": "Pullman Bali Legian Nirwana",
+    "zone": "KUTA",
+    "tier": 2,
+    "rate": 11000,
+    "address": "Jl. Melasti, Legian, Bali, Indonesia",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Alila Seminyak",
+    "zone": "SEMINYAK",
+    "tier": 3,
+    "rate": 22000,
+    "address": "Jl. Taman Ganesha, Seminyak, Bali, Indonesia",
+    "site": "https://www.hyatt.com"
+   },
+   {
+    "name": "W Bali - Seminyak",
+    "zone": "SEMINYAK",
+    "tier": 3,
+    "rate": 32000,
+    "address": "Jl. Petitenget, Seminyak, Bali, Indonesia",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "The Slow",
+    "zone": "CANGGU",
+    "tier": 2,
+    "rate": 12500,
+    "address": "Jl. Pantai Batu Bolong, Canggu, Bali, Indonesia",
+    "site": ""
+   },
+   {
+    "name": "Hotel Tugu Bali",
+    "zone": "CANGGU",
+    "tier": 3,
+    "rate": 19500,
+    "address": "Jl. Pantai Batu Bolong, Canggu, Bali, Indonesia",
+    "site": ""
+   },
+   {
+    "name": "Anantara Uluwatu Bali Resort",
+    "zone": "ULUWATU",
+    "tier": 3,
+    "rate": 26000,
+    "address": "Jl. Pantai Suluban, Uluwatu, Bali, Indonesia",
+    "site": "https://www.anantara.com"
+   },
+   {
+    "name": "Alila Villas Uluwatu",
+    "zone": "ULUWATU",
+    "tier": 3,
+    "rate": 34000,
+    "address": "Jl. Belimbing Sari, Uluwatu, Bali, Indonesia",
+    "site": "https://www.hyatt.com"
+   },
+   {
+    "name": "Novotel Bali Benoa",
+    "zone": "NUSADUA",
+    "tier": 2,
+    "rate": 9200,
+    "address": "Jl. Pratama, Tanjung Benoa, Bali, Indonesia",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Meliá Bali",
+    "zone": "NUSADUA",
+    "tier": 3,
+    "rate": 18000,
+    "address": "Kawasan Pariwisata ITDC, Nusa Dua, Bali, Indonesia",
+    "site": "https://www.melia.com"
+   },
+   {
+    "name": "The Mulia, Mulia Resort & Villas",
+    "zone": "NUSADUA",
+    "tier": 3,
+    "rate": 52000,
+    "address": "Jl. Raya Nusa Dua Selatan, Nusa Dua, Bali, Indonesia",
+    "site": "https://www.themulia.com"
+   }
+  ]
+ },
+ {
+  "name": "Tokyo",
+  "aliases": [
+   "tokyo",
+   "japan"
+  ],
+  "country": "Japan",
+  "intl": true,
+  "lat": 35.6762,
+  "lon": 139.6503,
+  "costIndex": 3.0,
+  "activityIndex": 3.4,
+  "flightReturn": 68000,
+  "visaInsurance": 5000,
+  "zones": [
+   {
+    "id": "ASAKUSA",
+    "name": "Asakusa",
+    "lat": 35.7148,
+    "lon": 139.7967
+   },
+   {
+    "id": "SHIBUYA",
+    "name": "Shibuya",
+    "lat": 35.658,
+    "lon": 139.7016
+   },
+   {
+    "id": "SHINJUKU",
+    "name": "Shinjuku",
+    "lat": 35.6938,
+    "lon": 139.7034
+   },
+   {
+    "id": "UENO",
+    "name": "Ueno",
+    "lat": 35.7141,
+    "lon": 139.7774
+   },
+   {
+    "id": "GINZA",
+    "name": "Ginza & Tokyo Station",
+    "lat": 35.6717,
+    "lon": 139.764
+   },
+   {
+    "id": "AKIHABARA",
+    "name": "Akihabara",
+    "lat": 35.6984,
+    "lon": 139.7731
+   },
+   {
+    "id": "ODAIBA",
+    "name": "Odaiba",
+    "lat": 35.627,
+    "lon": 139.776
+   }
+  ],
+  "areas": [
+   {
+    "name": "Asakusa",
+    "zone": "ASAKUSA",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Senso-ji",
+     "Kaminarimon Gate",
+     "Nakamise Street",
+     "Sumida Park"
+    ]
+   },
+   {
+    "name": "Shibuya",
+    "zone": "SHIBUYA",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Shibuya Crossing",
+     "Hachiko Statue",
+     "Shibuya Sky",
+     "Center-gai"
+    ]
+   },
+   {
+    "name": "Shinjuku",
+    "zone": "SHINJUKU",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Shinjuku Gyoen",
+     "Tokyo Metropolitan Government Building",
+     "Kabukicho",
+     "Omoide Yokocho"
+    ]
+   },
+   {
+    "name": "Harajuku",
+    "zone": "SHIBUYA",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Meiji Jingu",
+     "Takeshita Street",
+     "Omotesando",
+     "Yoyogi Park"
+    ]
+   },
+   {
+    "name": "Ueno",
+    "zone": "UENO",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Ueno Park",
+     "Tokyo National Museum",
+     "Ameyoko Market",
+     "Ueno Zoo"
+    ]
+   },
+   {
+    "name": "Odaiba",
+    "zone": "ODAIBA",
+    "category": "Adventure",
+    "exc": 0,
+    "places": [
+     "teamLab Planets",
+     "Odaiba Seaside Park",
+     "Rainbow Bridge View",
+     "DiverCity Tokyo Plaza"
+    ]
+   },
+   {
+    "name": "Ginza",
+    "zone": "GINZA",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Ginza Six",
+     "Kabuki-za",
+     "Tsukiji Outer Market",
+     "Tokyo Station"
+    ]
+   },
+   {
+    "name": "Akihabara",
+    "zone": "AKIHABARA",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Akihabara Electric Town",
+     "Akihabara Radio Kaikan",
+     "Mandarake Complex",
+     "Kanda Myojin"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "GINZA",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Tsukishima Monja Street",
+     "Ichiran Shibuya",
+     "Toyosu Market",
+     "Yurakucho Yakitori Alley"
+    ]
+   },
+   {
+    "name": "Kamakura Day Trip",
+    "zone": "SHINJUKU",
+    "category": "Nature",
+    "exc": 55,
+    "places": [
+     "Kamakura Great Buddha",
+     "Hasedera Temple Kamakura",
+     "Tsurugaoka Hachimangu Shrine",
+     "Enoshima Island"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Toyoko Inn Tokyo Shinjuku Kabukicho",
+    "zone": "SHINJUKU",
+    "tier": 1,
+    "rate": 8000,
+    "address": "2-12-15 Kabukicho, Shinjuku, Tokyo, Japan",
+    "site": "https://www.toyoko-inn.com"
+   },
+   {
+    "name": "Hotel Gracery Shinjuku",
+    "zone": "SHINJUKU",
+    "tier": 2,
+    "rate": 14500,
+    "address": "1-19-1 Kabukicho, Shinjuku, Tokyo, Japan",
+    "site": ""
+   },
+   {
+    "name": "Shinjuku Granbell Hotel",
+    "zone": "SHINJUKU",
+    "tier": 2,
+    "rate": 12500,
+    "address": "2-14-5 Kabukicho, Shinjuku, Tokyo, Japan",
+    "site": ""
+   },
+   {
+    "name": "Park Hyatt Tokyo",
+    "zone": "SHINJUKU",
+    "tier": 3,
+    "rate": 72000,
+    "address": "3-7-1-2 Nishi-Shinjuku, Shinjuku, Tokyo, Japan",
+    "site": "https://www.hyatt.com"
+   },
+   {
+    "name": "Cerulean Tower Tokyu Hotel",
+    "zone": "SHIBUYA",
+    "tier": 3,
+    "rate": 26000,
+    "address": "26-1 Sakuragaoka-cho, Shibuya, Tokyo, Japan",
+    "site": ""
+   },
+   {
+    "name": "Hotel Mystays Asakusa",
+    "zone": "ASAKUSA",
+    "tier": 1,
+    "rate": 8500,
+    "address": "2-9-9 Asakusabashi, Taito, Tokyo, Japan",
+    "site": ""
+   },
+   {
+    "name": "Richmond Hotel Premier Asakusa International",
+    "zone": "ASAKUSA",
+    "tier": 2,
+    "rate": 11500,
+    "address": "2-16-1 Komagata, Taito, Tokyo, Japan",
+    "site": ""
+   },
+   {
+    "name": "Asakusa View Hotel",
+    "zone": "ASAKUSA",
+    "tier": 2,
+    "rate": 13000,
+    "address": "3-17-1 Nishi-Asakusa, Taito, Tokyo, Japan",
+    "site": "https://www.viewhotels.co.jp"
+   },
+   {
+    "name": "The Gate Hotel Asakusa Kaminarimon",
+    "zone": "ASAKUSA",
+    "tier": 3,
+    "rate": 22000,
+    "address": "2-16-11 Kaminarimon, Taito, Tokyo, Japan",
+    "site": ""
+   },
+   {
+    "name": "Hotel Mystays Ueno Inaricho",
+    "zone": "UENO",
+    "tier": 1,
+    "rate": 8000,
+    "address": "2-17-5 Matsugaya, Taito, Tokyo, Japan",
+    "site": ""
+   },
+   {
+    "name": "Hotel Remm Akihabara",
+    "zone": "AKIHABARA",
+    "tier": 1,
+    "rate": 10000,
+    "address": "1-9-18 Kanda Sudacho, Chiyoda, Tokyo, Japan",
+    "site": ""
+   },
+   {
+    "name": "Mitsui Garden Hotel Ginza Premier",
+    "zone": "GINZA",
+    "tier": 2,
+    "rate": 17500,
+    "address": "8-13-1 Ginza, Chuo, Tokyo, Japan",
+    "site": "https://www.gardenhotels.co.jp"
+   },
+   {
+    "name": "Park Hotel Tokyo",
+    "zone": "GINZA",
+    "tier": 3,
+    "rate": 26000,
+    "address": "1-7-1 Higashi-Shimbashi, Minato, Tokyo, Japan",
+    "site": "https://www.parkhoteltokyo.com"
+   },
+   {
+    "name": "Imperial Hotel Tokyo",
+    "zone": "GINZA",
+    "tier": 3,
+    "rate": 48000,
+    "address": "1-1-1 Uchisaiwaicho, Chiyoda, Tokyo, Japan",
+    "site": "https://www.imperialhotel.co.jp"
+   },
+   {
+    "name": "Hilton Tokyo Odaiba",
+    "zone": "ODAIBA",
+    "tier": 3,
+    "rate": 23000,
+    "address": "1-9-1 Daiba, Minato, Tokyo, Japan",
+    "site": "https://www.hilton.com"
+   },
+   {
+    "name": "Grand Nikko Tokyo Daiba",
+    "zone": "ODAIBA",
+    "tier": 3,
+    "rate": 22000,
+    "address": "2-6-1 Daiba, Minato, Tokyo, Japan",
+    "site": ""
+   }
+  ]
+ },
+ {
+  "name": "New York",
+  "aliases": [
+   "new york",
+   "nyc",
+   "newyork",
+   "new york city"
+  ],
+  "country": "United States",
+  "intl": true,
+  "lat": 40.7128,
+  "lon": -74.006,
+  "costIndex": 4.8,
+  "activityIndex": 5.2,
+  "flightReturn": 98000,
+  "visaInsurance": 20500,
+  "zones": [
+   {
+    "id": "MIDTOWN",
+    "name": "Midtown Manhattan & Times Square",
+    "lat": 40.758,
+    "lon": -73.9855
+   },
+   {
+    "id": "CENTRALPARK",
+    "name": "Central Park & Upper West Side",
+    "lat": 40.7829,
+    "lon": -73.9654
+   },
+   {
+    "id": "LOWER",
+    "name": "Lower Manhattan, SoHo & Bowery",
+    "lat": 40.72,
+    "lon": -74.0
+   },
+   {
+    "id": "BROOKLYN",
+    "name": "Brooklyn (DUMBO)",
+    "lat": 40.7033,
+    "lon": -73.9881
+   }
+  ],
+  "areas": [
+   {
+    "name": "Midtown",
+    "zone": "MIDTOWN",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Times Square",
+     "Empire State Building",
+     "Rockefeller Center",
+     "Bryant Park"
+    ]
+   },
+   {
+    "name": "Central Park",
+    "zone": "CENTRALPARK",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Central Park",
+     "The Metropolitan Museum of Art",
+     "Bethesda Terrace",
+     "The Guggenheim"
+    ]
+   },
+   {
+    "name": "Lower Manhattan",
+    "zone": "LOWER",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Statue of Liberty",
+     "9/11 Memorial",
+     "One World Observatory",
+     "Wall Street"
+    ]
+   },
+   {
+    "name": "Brooklyn",
+    "zone": "BROOKLYN",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Brooklyn Bridge",
+     "DUMBO",
+     "Brooklyn Heights Promenade",
+     "Prospect Park"
+    ]
+   },
+   {
+    "name": "Museums",
+    "zone": "CENTRALPARK",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Museum of Modern Art",
+     "American Museum of Natural History",
+     "Whitney Museum",
+     "The Met Cloisters"
+    ]
+   },
+   {
+    "name": "Green NYC",
+    "zone": "LOWER",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "High Line",
+     "Hudson River Park",
+     "Battery Park",
+     "Washington Square Park"
+    ]
+   },
+   {
+    "name": "Queens",
+    "zone": "MIDTOWN",
+    "category": "Culture",
+    "exc": 10,
+    "places": [
+     "Flushing Meadows Corona Park",
+     "MoMA PS1",
+     "Astoria Park",
+     "Queens Night Market"
+    ]
+   },
+   {
+    "name": "Shopping",
+    "zone": "LOWER",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Fifth Avenue",
+     "SoHo",
+     "Chelsea Market",
+     "Madison Avenue"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "LOWER",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Chelsea Market Food Walk",
+     "Chinatown Food Trail",
+     "Little Italy",
+     "Koreatown"
+    ]
+   },
+   {
+    "name": "Waterfront Day",
+    "zone": "MIDTOWN",
+    "category": "Adventure",
+    "exc": 15,
+    "places": [
+     "Staten Island Ferry",
+     "Roosevelt Island Tramway",
+     "Governors Island",
+     "Coney Island"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Pod 39",
+    "zone": "MIDTOWN",
+    "tier": 1,
+    "rate": 17500,
+    "address": "145 East 39th Street, New York, NY 10016, USA",
+    "site": "https://www.thepodhotel.com"
+   },
+   {
+    "name": "Hotel Edison Times Square",
+    "zone": "MIDTOWN",
+    "tier": 1,
+    "rate": 17000,
+    "address": "228 West 47th Street, New York, NY 10036, USA",
+    "site": ""
+   },
+   {
+    "name": "Moxy NYC Times Square",
+    "zone": "MIDTOWN",
+    "tier": 2,
+    "rate": 21000,
+    "address": "485 Seventh Avenue, New York, NY 10018, USA",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "YOTEL New York",
+    "zone": "MIDTOWN",
+    "tier": 2,
+    "rate": 21000,
+    "address": "570 Tenth Avenue, New York, NY 10036, USA",
+    "site": "https://www.yotel.com"
+   },
+   {
+    "name": "Park Central Hotel New York",
+    "zone": "MIDTOWN",
+    "tier": 2,
+    "rate": 20000,
+    "address": "870 Seventh Avenue, New York, NY 10019, USA",
+    "site": ""
+   },
+   {
+    "name": "The Westin New York at Times Square",
+    "zone": "MIDTOWN",
+    "tier": 3,
+    "rate": 30000,
+    "address": "270 West 43rd Street, New York, NY 10036, USA",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "The Plaza",
+    "zone": "CENTRALPARK",
+    "tier": 3,
+    "rate": 85000,
+    "address": "768 Fifth Avenue, New York, NY 10019, USA",
+    "site": ""
+   },
+   {
+    "name": "Hotel Belleclaire",
+    "zone": "CENTRALPARK",
+    "tier": 1,
+    "rate": 16000,
+    "address": "250 West 77th Street, New York, NY 10024, USA",
+    "site": ""
+   },
+   {
+    "name": "The Pierre",
+    "zone": "CENTRALPARK",
+    "tier": 3,
+    "rate": 75000,
+    "address": "2 East 61st Street, New York, NY 10065, USA",
+    "site": ""
+   },
+   {
+    "name": "citizenM New York Bowery",
+    "zone": "LOWER",
+    "tier": 2,
+    "rate": 21000,
+    "address": "189 Bowery, New York, NY 10002, USA",
+    "site": "https://www.citizenm.com"
+   },
+   {
+    "name": "Arlo SoHo",
+    "zone": "LOWER",
+    "tier": 2,
+    "rate": 24000,
+    "address": "231 Hudson Street, New York, NY 10013, USA",
+    "site": ""
+   },
+   {
+    "name": "The Wall Street Inn",
+    "zone": "LOWER",
+    "tier": 2,
+    "rate": 22000,
+    "address": "9 South William Street, New York, NY 10004, USA",
+    "site": ""
+   },
+   {
+    "name": "Pod Brooklyn",
+    "zone": "BROOKLYN",
+    "tier": 1,
+    "rate": 12500,
+    "address": "247 Metropolitan Avenue, Brooklyn, NY 11211, USA",
+    "site": "https://www.thepodhotel.com"
+   },
+   {
+    "name": "1 Hotel Brooklyn Bridge",
+    "zone": "BROOKLYN",
+    "tier": 3,
+    "rate": 34000,
+    "address": "60 Furman Street, Brooklyn, NY 11201, USA",
+    "site": "https://www.1hotels.com"
+   }
+  ]
+ },
+ {
+  "name": "Rome",
+  "aliases": [
+   "rome",
+   "italy",
+   "roma"
+  ],
+  "country": "Italy",
+  "intl": true,
+  "lat": 41.9028,
+  "lon": 12.4964,
+  "costIndex": 3.6,
+  "activityIndex": 4.5,
+  "flightReturn": 76000,
+  "visaInsurance": 12500,
+  "zones": [
+   {
+    "id": "ANCIENT",
+    "name": "Colosseum & Monti",
+    "lat": 41.8902,
+    "lon": 12.4922
+   },
+   {
+    "id": "VATICAN",
+    "name": "Vatican & Prati",
+    "lat": 41.9022,
+    "lon": 12.4539
+   },
+   {
+    "id": "CENTRO",
+    "name": "Centro Storico (Pantheon, Trevi, Spanish Steps)",
+    "lat": 41.9009,
+    "lon": 12.4833
+   },
+   {
+    "id": "TRASTEVERE",
+    "name": "Trastevere",
+    "lat": 41.889,
+    "lon": 12.47
+   },
+   {
+    "id": "TERMINI",
+    "name": "Termini & Esquilino",
+    "lat": 41.901,
+    "lon": 12.5018
+   },
+   {
+    "id": "BORGHESE",
+    "name": "Villa Borghese & Via Veneto",
+    "lat": 41.9142,
+    "lon": 12.4923
+   }
+  ],
+  "areas": [
+   {
+    "name": "Ancient Rome",
+    "zone": "ANCIENT",
+    "category": "History",
+    "exc": 0,
+    "places": [
+     "Colosseum",
+     "Roman Forum",
+     "Palatine Hill",
+     "Arch of Constantine"
+    ]
+   },
+   {
+    "name": "Vatican",
+    "zone": "VATICAN",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Vatican Museums",
+     "St Peter's Basilica",
+     "Sistine Chapel",
+     "Castel Sant'Angelo"
+    ]
+   },
+   {
+    "name": "Historic Centre",
+    "zone": "CENTRO",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Pantheon",
+     "Trevi Fountain",
+     "Piazza Navona",
+     "Spanish Steps"
+    ]
+   },
+   {
+    "name": "Trastevere",
+    "zone": "TRASTEVERE",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Trastevere Streets",
+     "Santa Maria in Trastevere",
+     "Janiculum Hill",
+     "Villa Farnesina"
+    ]
+   },
+   {
+    "name": "Parks",
+    "zone": "BORGHESE",
+    "category": "Nature",
+    "exc": 5,
+    "places": [
+     "Villa Borghese",
+     "Bioparco di Roma",
+     "Pincian Hill",
+     "Appian Way"
+    ]
+   },
+   {
+    "name": "Squares",
+    "zone": "CENTRO",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Campo de' Fiori",
+     "Piazza Venezia",
+     "Piazza del Popolo",
+     "Piazza di Spagna"
+    ]
+   },
+   {
+    "name": "Museums",
+    "zone": "CENTRO",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Capitoline Museums",
+     "Borghese Gallery",
+     "Palazzo Massimo",
+     "National Roman Museum"
+    ]
+   },
+   {
+    "name": "Markets",
+    "zone": "CENTRO",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Campo de' Fiori Market",
+     "Testaccio Market",
+     "Via del Corso",
+     "Monti Market"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "TRASTEVERE",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Roman Pasta Trail",
+     "Trastevere Food Walk",
+     "Gelato Trail",
+     "Testaccio Food Tour"
+    ]
+   },
+   {
+    "name": "Day Trip",
+    "zone": "TERMINI",
+    "category": "History",
+    "exc": 30,
+    "places": [
+     "Tivoli",
+     "Ostia Antica",
+     "Castelli Romani",
+     "Frascati"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "The Yellow Hostel Rome",
+    "zone": "TERMINI",
+    "tier": 1,
+    "rate": 9500,
+    "address": "Via Palestro 44, 00185 Rome, Italy",
+    "site": ""
+   },
+   {
+    "name": "Hotel Quirinale",
+    "zone": "TERMINI",
+    "tier": 2,
+    "rate": 17500,
+    "address": "Via Nazionale 7, 00184 Rome, Italy",
+    "site": ""
+   },
+   {
+    "name": "Hotel Artemide",
+    "zone": "TERMINI",
+    "tier": 2,
+    "rate": 19000,
+    "address": "Via Nazionale 22, 00184 Rome, Italy",
+    "site": "https://www.hotelartemide.it"
+   },
+   {
+    "name": "Mercure Roma Centro Colosseo",
+    "zone": "ANCIENT",
+    "tier": 2,
+    "rate": 15500,
+    "address": "Via Labicana 144, 00184 Rome, Italy",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "NH Collection Roma Fori Imperiali",
+    "zone": "ANCIENT",
+    "tier": 2,
+    "rate": 23000,
+    "address": "Via Alessandrina 53, 00184 Rome, Italy",
+    "site": ""
+   },
+   {
+    "name": "Hotel Duca d'Alba",
+    "zone": "ANCIENT",
+    "tier": 2,
+    "rate": 19500,
+    "address": "Via Leonina 12, 00184 Rome, Italy",
+    "site": ""
+   },
+   {
+    "name": "Starhotels Michelangelo Rome",
+    "zone": "VATICAN",
+    "tier": 2,
+    "rate": 17500,
+    "address": "Via della Stazione di San Pietro 14, 00165 Rome, Italy",
+    "site": "https://www.starhotels.com"
+   },
+   {
+    "name": "Hotel Bramante",
+    "zone": "VATICAN",
+    "tier": 2,
+    "rate": 19000,
+    "address": "Vicolo delle Palline 24, 00193 Rome, Italy",
+    "site": ""
+   },
+   {
+    "name": "Hotel Locarno",
+    "zone": "CENTRO",
+    "tier": 2,
+    "rate": 21000,
+    "address": "Via della Penna 22, 00186 Rome, Italy",
+    "site": ""
+   },
+   {
+    "name": "Hotel Raphael",
+    "zone": "CENTRO",
+    "tier": 3,
+    "rate": 42000,
+    "address": "Largo Febo 2, 00186 Rome, Italy",
+    "site": ""
+   },
+   {
+    "name": "Hotel de Russie",
+    "zone": "BORGHESE",
+    "tier": 3,
+    "rate": 85000,
+    "address": "Via del Babuino 9, 00187 Rome, Italy",
+    "site": "https://www.roccofortehotels.com"
+   },
+   {
+    "name": "Hotel Valadier",
+    "zone": "CENTRO",
+    "tier": 3,
+    "rate": 36000,
+    "address": "Via della Fontanella 15, 00187 Rome, Italy",
+    "site": ""
+   },
+   {
+    "name": "Hotel Santa Maria",
+    "zone": "TRASTEVERE",
+    "tier": 2,
+    "rate": 21000,
+    "address": "Vicolo del Piede 2, 00153 Rome, Italy",
+    "site": ""
+   },
+   {
+    "name": "Hotel Ponte Sisto",
+    "zone": "TRASTEVERE",
+    "tier": 3,
+    "rate": 32000,
+    "address": "Via dei Pettinari 64, 00186 Rome, Italy",
+    "site": ""
+   }
+  ]
+ },
+ {
+  "name": "Sydney",
+  "aliases": [
+   "sydney",
+   "australia"
+  ],
+  "country": "Australia",
+  "intl": true,
+  "lat": -33.8688,
+  "lon": 151.2093,
+  "costIndex": 4.2,
+  "activityIndex": 4.6,
+  "flightReturn": 88000,
+  "visaInsurance": 14000,
+  "zones": [
+   {
+    "id": "HARBOUR",
+    "name": "Circular Quay, The Rocks & CBD",
+    "lat": -33.865,
+    "lon": 151.2095
+   },
+   {
+    "id": "DARLING",
+    "name": "Darling Harbour & Haymarket",
+    "lat": -33.875,
+    "lon": 151.202
+   },
+   {
+    "id": "BONDI",
+    "name": "Bondi & Eastern Beaches",
+    "lat": -33.8908,
+    "lon": 151.2743
+   },
+   {
+    "id": "MANLY",
+    "name": "Manly",
+    "lat": -33.7969,
+    "lon": 151.284
+   }
+  ],
+  "areas": [
+   {
+    "name": "Harbour",
+    "zone": "HARBOUR",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Sydney Opera House",
+     "Sydney Harbour Bridge",
+     "Circular Quay",
+     "The Rocks"
+    ]
+   },
+   {
+    "name": "Beaches",
+    "zone": "BONDI",
+    "category": "Beach",
+    "exc": 0,
+    "places": [
+     "Bondi Beach",
+     "Bronte Beach",
+     "Coogee Beach",
+     "Manly Beach"
+    ]
+   },
+   {
+    "name": "City",
+    "zone": "HARBOUR",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Royal Botanic Garden",
+     "Mrs Macquarie's Chair",
+     "Darling Harbour",
+     "Barangaroo Reserve"
+    ]
+   },
+   {
+    "name": "Wildlife",
+    "zone": "HARBOUR",
+    "category": "Wildlife",
+    "exc": 6,
+    "places": [
+     "Taronga Zoo",
+     "SEA LIFE Sydney Aquarium",
+     "Australian Museum",
+     "Wild Life Sydney Zoo"
+    ]
+   },
+   {
+    "name": "Coastal Walk",
+    "zone": "BONDI",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Bondi to Coogee Walk",
+     "Watsons Bay",
+     "Camp Cove",
+     "Gap Park"
+    ]
+   },
+   {
+    "name": "Markets",
+    "zone": "DARLING",
+    "category": "Shopping",
+    "exc": 0,
+    "places": [
+     "Paddy's Markets",
+     "The Rocks Markets",
+     "Glebe Markets",
+     "Queen Victoria Building"
+    ]
+   },
+   {
+    "name": "Blue Mountains",
+    "zone": "HARBOUR",
+    "category": "Nature",
+    "exc": 100,
+    "places": [
+     "Blue Mountains National Park",
+     "Three Sisters",
+     "Scenic World",
+     "Wentworth Falls"
+    ]
+   },
+   {
+    "name": "Culture",
+    "zone": "HARBOUR",
+    "category": "Culture",
+    "exc": 0,
+    "places": [
+     "Art Gallery of NSW",
+     "Museum of Sydney",
+     "Powerhouse Museum",
+     "Australian National Maritime Museum"
+    ]
+   },
+   {
+    "name": "Food",
+    "zone": "DARLING",
+    "category": "Food",
+    "exc": 0,
+    "places": [
+     "Sydney Fish Market",
+     "Barangaroo Dining",
+     "Chinatown Food Walk",
+     "The Rocks Food Trail"
+    ]
+   },
+   {
+    "name": "Relaxed",
+    "zone": "HARBOUR",
+    "category": "Nature",
+    "exc": 0,
+    "places": [
+     "Hyde Park Sydney",
+     "Centennial Parklands",
+     "Wendy Whiteley Garden",
+     "Barangaroo Walk"
+    ]
+   }
+  ],
+  "hotels": [
+   {
+    "name": "Wake Up! Sydney Central",
+    "zone": "DARLING",
+    "tier": 1,
+    "rate": 11000,
+    "address": "509 Pitt Street, Sydney NSW 2000, Australia",
+    "site": ""
+   },
+   {
+    "name": "YHA Sydney Harbour",
+    "zone": "HARBOUR",
+    "tier": 1,
+    "rate": 10500,
+    "address": "110 Cumberland Street, The Rocks, Sydney NSW 2000, Australia",
+    "site": ""
+   },
+   {
+    "name": "ibis Sydney World Square",
+    "zone": "DARLING",
+    "tier": 1,
+    "rate": 13000,
+    "address": "382 Pitt Street, Sydney NSW 2000, Australia",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Novotel Sydney Darling Square",
+    "zone": "DARLING",
+    "tier": 2,
+    "rate": 17500,
+    "address": "17 Little Pier Street, Haymarket, Sydney NSW 2000, Australia",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "Rydges Sydney Central",
+    "zone": "DARLING",
+    "tier": 2,
+    "rate": 16000,
+    "address": "28 Albion Street, Surry Hills, Sydney NSW 2010, Australia",
+    "site": ""
+   },
+   {
+    "name": "Meriton Suites Kent Street",
+    "zone": "DARLING",
+    "tier": 2,
+    "rate": 18000,
+    "address": "1 Barrack Street, Sydney NSW 2000, Australia",
+    "site": ""
+   },
+   {
+    "name": "Sydney Harbour Marriott Hotel at Circular Quay",
+    "zone": "HARBOUR",
+    "tier": 3,
+    "rate": 29000,
+    "address": "30 Pitt Street, Sydney NSW 2000, Australia",
+    "site": "https://www.marriott.com"
+   },
+   {
+    "name": "Shangri-La Sydney",
+    "zone": "HARBOUR",
+    "tier": 3,
+    "rate": 36000,
+    "address": "176 Cumberland Street, The Rocks, Sydney NSW 2000, Australia",
+    "site": "https://www.shangri-la.com"
+   },
+   {
+    "name": "Park Hyatt Sydney",
+    "zone": "HARBOUR",
+    "tier": 3,
+    "rate": 75000,
+    "address": "7 Hickson Road, The Rocks, Sydney NSW 2000, Australia",
+    "site": "https://www.hyatt.com"
+   },
+   {
+    "name": "The Langham, Sydney",
+    "zone": "HARBOUR",
+    "tier": 3,
+    "rate": 38000,
+    "address": "89-113 Kent Street, Millers Point, Sydney NSW 2000, Australia",
+    "site": "https://www.langhamhotels.com"
+   },
+   {
+    "name": "Pullman Sydney Hyde Park",
+    "zone": "HARBOUR",
+    "tier": 3,
+    "rate": 23000,
+    "address": "36 College Street, Sydney NSW 2000, Australia",
+    "site": "https://all.accor.com"
+   },
+   {
+    "name": "QT Bondi",
+    "zone": "BONDI",
+    "tier": 2,
+    "rate": 26000,
+    "address": "6 Campbell Parade, Bondi Beach, Sydney NSW 2026, Australia",
+    "site": ""
+   },
+   {
+    "name": "Novotel Sydney Manly Pacific",
+    "zone": "MANLY",
+    "tier": 2,
+    "rate": 17500,
+    "address": "55 North Steyne, Manly, Sydney NSW 2095, Australia",
+    "site": "https://all.accor.com"
+   }
+  ]
+ }
+]

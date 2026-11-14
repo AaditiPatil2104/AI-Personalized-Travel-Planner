@@ -2,14 +2,7 @@
 
 A Java 17 + Spring Boot travel planner with a nature-green responsive UI, user/admin authentication, budget intelligence, unique day-by-day experiences, area-aware hotel suggestions, place images, Maps/Wikipedia links, recent trips, feedback and admin reports.
 
-## What's new in this version (v9)
-- **Fixed: "Generate plan" did nothing.** The page called a helper `$()` that was never defined, so the planner crashed on open. It is now defined, errors are shown on screen, and the whole flow was tested in a real browser.
-- **19 interests** (was 8): nature, beaches, adventure, history, culture, wildlife, food, shopping, spiritual, architecture, art & museums, photography, nightlife, romantic, family & kids, wellness, trekking, water activities, local crafts. Places are scored against your interests and the best-matching areas are chosen for each day.
-- **Live budget validation.** As you type, the minimum required budget is recalculated from adults/children, days, interests, travel mode, food preference, hotel standard and room sharing, with a line-by-line breakdown. Generate stays disabled (and the server rejects the request) if the budget is below the minimum.
-- **Real destinations and real hotels only.** 18 destinations (Agra, Goa, Delhi, Mumbai, Jaipur, Kerala, Pune, Bengaluru, Paris, London, Dubai, Singapore, Bangkok, Bali, Tokyo, New York, Rome, Sydney), 10 areas x 4 places each, and 11-24 named hotels per destination. Unknown destinations are rejected instead of generating fake places.
-- **Hotel booking plan.** Start date, adults/children, room sharing (single/double/triple/family) -> rooms needed and who sleeps where (e.g. 10 travellers = 5 double rooms). A *different* hotel is chosen near each day's area (up to 9 distinct hotels in a 10-day trip), or pick "Stay in one hotel". Each night offers Budget / Comfort / Premium alternatives you can switch; totals update instantly. Links: map, check rates & book, official site.
-- **Reports.** Admin reports: All, Date-wise (From / To calendar pickers), Traveller, Place, City. Summary totals, **PDF download**, and CSV.
-- **Trip PDF.** "Download PDF" on the itinerary creates a real PDF (summary, budget, room plan, hotel booking table, one page per day).
+
 
 ## Main user features
 - First gateway: **User Login** or **Admin Login**; sticky navigation; travel-style recommendation pages
